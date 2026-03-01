@@ -1,11 +1,12 @@
 "use client"
 
 import * as React from "react"
-import { Bell, User } from "lucide-react"
+import { Bell } from "lucide-react"
 
 import { cn } from "@/lib/utils"
 import { Logo } from "@/components/ui/logo"
 import { SearchBar } from "@/components/ui/search-bar"
+import { EtoroAuthButton, EtoroAuthButtonMobile } from "@/components/etoro-auth"
 
 interface HeaderProps extends React.HTMLAttributes<HTMLElement> {}
 
@@ -42,16 +43,14 @@ function Header({ className, ...props }: HeaderProps) {
           >
             <Bell className="h-5 w-5" />
           </button>
-          <button
-            type="button"
-            className={cn(
-              "p-2 rounded-full transition-colors",
-              "text-[#8b9eb3] hover:text-white hover:bg-[#1a2332]"
-            )}
-            aria-label="Profile"
-          >
-            <User className="h-5 w-5" />
-          </button>
+          {/* eToro Auth - Desktop */}
+          <div className="hidden md:block">
+            <EtoroAuthButton />
+          </div>
+          {/* eToro Auth - Mobile */}
+          <div className="md:hidden">
+            <EtoroAuthButtonMobile />
+          </div>
         </div>
       </div>
 
