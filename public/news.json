@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T16:45:12.393922",
+  "lastUpdated": "2026-03-01T18:15:12.249972",
   "clusters": [
     {
       "id": "1349a599438d",
@@ -21,14 +21,14 @@
       ],
       "primaryTicker": "NVDA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:11.007036",
+      "publishedAt": "2026-03-01T18:15:10.709886",
       "articleCount": 3,
       "articles": [
         {
           "source": "www.barchart.com",
           "title": "Nvidia Stock May Be Oversold - What is the Best NVDA Play?",
           "url": "https://www.barchart.com/story/news/497012/nvidia-stock-may-be-oversold-what-is-the-best-nvda-play",
-          "time": "2 hours ago"
+          "time": "3 hours ago"
         },
         {
           "source": "www.barchart.com",
@@ -45,13 +45,64 @@
       ]
     },
     {
+      "id": "0d47700ce878",
+      "topic": "Aviso Financial Inc. Purchases 6,000 Shares of Visa Inc. $V",
+      "summary": "Trivium Point Advisory LLC reduced its holdings in Visa Inc. (NYSE:V - Free Report) by 31.6% during the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The firm owned 17,572 shares of the credit-card processor's stock after selli",
+      "headlines": [
+        "Aviso Financial Inc. Purchases 6,000 Shares of Visa Inc. $V",
+        "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
+        "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V",
+        "Visa Inc. $V Shares Sold by Erste Asset Management GmbH"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/1Wtu2DIbhwEXheQOKXKFakGV2QD5iuyZQPX_0rUWlAc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya2V0YmVhdC5j/b20vaW1hZ2VzL21h/cmtldGJlYXQtbG9n/by0xMjAwLTEyMDAu/anBnP3Y9MQ",
+      "importance": 6,
+      "marketReaction": 4,
+      "priceChange": "+1.50%",
+      "spike": 0.61,
+      "direction": "up",
+      "tickers": [
+        "V"
+      ],
+      "primaryTicker": "V",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T18:15:12.249910",
+      "articleCount": 4,
+      "articles": [
+        {
+          "source": "www.marketbeat.com",
+          "title": "Aviso Financial Inc. Purchases 6,000 Shares of Visa Inc. $V",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-aviso-financial-inc-purchases-6000-shares-of-visa-inc-v-2026-03-01/",
+          "time": "9 hours ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
+          "url": "https://www.tipranks.com/news/company-announcements/visa-adjusts-share-conversion-after-litigation-escrow-deposit",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.marketbeat.com",
+          "title": "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-trivium-point-advisory-llc-lowers-stock-holdings-in-visa-inc-v-2026-02-28/",
+          "time": "1 day ago"
+        },
+        {
+          "source": "www.marketbeat.com",
+          "title": "Visa Inc. $V Shares Sold by Erste Asset Management GmbH",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-visa-inc-v-shares-sold-by-erste-asset-management-gmbh-2026-02-27/",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
       "id": "fe37afa7477e",
       "topic": "Key facts: Microsoft a top investment; AI clients could boost revenue by $40B \u2014 ",
       "summary": "MSFT \u00b7 Dan Ives from Wedbush Securities sees Microsoft as a top investment, noting 10% of Azure clients are pursuing AI, which could boost revenue by $35-$40 billion.1 \u00b7 Amdocs and Microsoft are collaborating to provide AI-driven application modernization solutions, utilizing Microsoft's ...",
       "headlines": [
         "Key facts: Microsoft a top investment; AI clients could boost revenue by $40B \u2014 TradingView News",
         "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
-        "How Low Can Microsoft Stock Go?"
+        "How Low Can Microsoft Stock Go?",
+        "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com"
       ],
       "thumbnail": "https://imgs.search.brave.com/NxQxkucUcvbHhjDo31Djow4QESooWZ6wtVv0CoJYGuI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnRy/YWRpbmd2aWV3LmNv/bS9zdGF0aWMvaW1h/Z2VzL2lsbHVzdHJh/dGlvbnMvbmV3cy1z/dG9yeS5qcGc",
       "importance": 6,
@@ -64,8 +115,8 @@
       ],
       "primaryTicker": "MSFT",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:10.528662",
-      "articleCount": 3,
+      "publishedAt": "2026-03-01T18:15:10.309927",
+      "articleCount": 4,
       "articles": [
         {
           "source": "www.tradingview.com",
@@ -84,6 +135,12 @@
           "title": "How Low Can Microsoft Stock Go?",
           "url": "https://www.forbes.com/sites/greatspeculations/2026/02/27/how-low-can-microsoft-stock-go/",
           "time": "2 days ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com",
+          "url": "https://www.tipranks.com/news/holding-steady-says-investor-about-microsoft-stock",
+          "time": "3 hours ago"
         }
       ]
     },
@@ -109,7 +166,7 @@
       ],
       "primaryTicker": "META",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:11.212665",
+      "publishedAt": "2026-03-01T18:15:10.998689",
       "articleCount": 6,
       "articles": [
         {
@@ -162,7 +219,7 @@
       "thumbnail": "https://imgs.search.brave.com/1Wtu2DIbhwEXheQOKXKFakGV2QD5iuyZQPX_0rUWlAc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya2V0YmVhdC5j/b20vaW1hZ2VzL21h/cmtldGJlYXQtbG9n/by0xMjAwLTEyMDAu/anBnP3Y9MQ",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "-0.39%",
+      "priceChange": "-0.14%",
       "spike": 0.71,
       "direction": "flat",
       "tickers": [
@@ -170,7 +227,7 @@
       ],
       "primaryTicker": "AAPL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:10.313881",
+      "publishedAt": "2026-03-01T18:15:10.203233",
       "articleCount": 3,
       "articles": [
         {
@@ -182,8 +239,8 @@
         {
           "source": "www.quiverquant.com",
           "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments | AAPL Stock News",
-          "url": "https://www.quiverquant.com/news/Apple+Stock+(AAPL)+Opinions+on+Low-Cost+MacBook+and+AI+Developments",
-          "time": "3 hours ago"
+          "url": "https://www.quiverquant.com/news/Apple+Stock+%28AAPL%29+Opinions+on+Low-Cost+MacBook+and+AI+Developments",
+          "time": "4 hours ago"
         },
         {
           "source": "www.marketbeat.com",
@@ -196,7 +253,7 @@
     {
       "id": "67763dbc3e74",
       "topic": "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
-      "summary": "Enter your email to receive free breaking news alerts and insights related to TSLA. ... By: Quiver DiscussionTracker Posted: 19 hours ago / Feb. 28, 2026 5:34 p.m. UTC ... Analyst upgrades ignite optimism: Social media discussions highlighted Baird's recent upgrade of Tesla to Outperform with a $548",
+      "summary": "Enter your email to receive free breaking news alerts and insights related to TSLA. ... By: Quiver DiscussionTracker Posted: 23 hours ago / Feb. 28, 2026 5:34 p.m. UTC ... Analyst upgrades ignite optimism: Social media discussions highlighted Baird's recent upgrade of Tesla to Outperform with a $548",
       "headlines": [
         "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
         "Tesla Stock (TSLA) Opinions on Analyst Upgrades and Valuation Clashes | TSLA Stock News",
@@ -204,7 +261,7 @@
         "Tesla Stock Slips as Cybercab Leader Victor Nechita Exists, Calls it a \u2018Humbling Experience\u2019 - TipRanks.com",
         "Is Tesla (TSLA) Pricing Fair After Recent Share Price Declines And Lofty Growth Hopes? - Simply Wall St News"
       ],
-      "thumbnail": "https://imgs.search.brave.com/6orneOuMcQVeSBSHxbyaDZJzJnms4xqT0umx1DjR_Ao/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL0NvbnN1/bWVyJTIwQ3ljbGlj/YWwlMjAobmFtZXMl/MjBJJTIwLSUyMFop/L1Rlc2xhJTIwSW5j/JTIwbG9nbyUyMGJ5/LSUyMGJhaWxleXN0/b2NrJTIwdmlhJTIw/aVN0b2NrLmpwZw",
+      "thumbnail": "https://imgs.search.brave.com/WCWew05fAevCgPmiRrXxrTojnG73HjddvI2vAQDFVVg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpdmVycXVhbnQu/Y29tL3N0YXRpYy9p/bWFnZXMvc2l0ZV9w/cmV2aWV3LnBuZw",
       "importance": 6,
       "marketReaction": 1,
       "priceChange": "-0.06%",
@@ -215,13 +272,13 @@
       ],
       "primaryTicker": "TSLA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:11.511108",
+      "publishedAt": "2026-03-01T18:15:11.190999",
       "articleCount": 5,
       "articles": [
         {
-          "source": "www.barchart.com",
+          "source": "finance.yahoo.com",
           "title": "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
-          "url": "https://www.barchart.com/story/news/449368/tesla-stock-forecast-is-tsla-headed-to-25-or-600-in-2026",
+          "url": "https://finance.yahoo.com/news/tesla-stock-forecast-tsla-headed-185144387.html",
           "time": "3 days ago"
         },
         {
@@ -261,7 +318,7 @@
       "thumbnail": "https://imgs.search.brave.com/wwrHgaKctKkJ2ODyrFwJk-VBaLwvzJcN4uuKilmbCj0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2Uvd18x/MjAwLGhfNjMwLGdf/YXV0byxjX2ZpbGwv/TkRBNk1EQXdNREF3/TURBeU9EazNNemcw/L2FuZHJldy1qYXNz/eS1jaGllZi1leGVj/dXRpdmUtb2ZmaWNl/ci1vZi13ZWItc2Vy/dmljZXMtZm9yLWFt/YXpvbmNvbS1pbmMt/c3BlYWtzLWR1cmlu/Zy10aGUtMjAxOS1j/ZXJhd2Vlay1ieS1p/aHMtbWFya2l0LWNv/bmZlcmVuY2UtaW4t/aG91c3Rvbi10ZXhh/cy11cy1vbi1tb25k/YXktbWFyY2gtMTEt/MjAxOS10aGUtcHJv/Z3JhbS1wcm92aWRl/cy1jb21wcmVoLmpw/Zw",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "-0.00%",
+      "priceChange": "+0.44%",
       "spike": 0.65,
       "direction": "flat",
       "tickers": [
@@ -269,7 +326,7 @@
       ],
       "primaryTicker": "AMZN",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:11.725039",
+      "publishedAt": "2026-03-01T18:15:11.491102",
       "articleCount": 2,
       "articles": [
         {
@@ -287,49 +344,6 @@
       ]
     },
     {
-      "id": "0d47700ce878",
-      "topic": "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
-      "summary": "Erste Asset Management GmbH reduced its position in shares of Visa Inc. (NYSE:V - Free Report) by 35.3% in the 3rd quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 443,826 shares of the credit-card processor's stock after sellin",
-      "headlines": [
-        "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
-        "Visa Inc. $V Shares Sold by Erste Asset Management GmbH",
-        "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V"
-      ],
-      "thumbnail": "https://imgs.search.brave.com/T7hKcsvdDruvhelEMIxoLrwfMvI_ufLggN4HECdsFnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOS9zaHV0dGVy/c3RvY2tfNTkzODcz/NDcxLTc1MHg0MDYu/anBn",
-      "importance": 6,
-      "marketReaction": 1,
-      "priceChange": "+0.01%",
-      "spike": 0.61,
-      "direction": "flat",
-      "tickers": [
-        "V"
-      ],
-      "primaryTicker": "V",
-      "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:12.393863",
-      "articleCount": 3,
-      "articles": [
-        {
-          "source": "www.tipranks.com",
-          "title": "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
-          "url": "https://www.tipranks.com/news/company-announcements/visa-adjusts-share-conversion-after-litigation-escrow-deposit",
-          "time": "2 days ago"
-        },
-        {
-          "source": "www.marketbeat.com",
-          "title": "Visa Inc. $V Shares Sold by Erste Asset Management GmbH",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-visa-inc-v-shares-sold-by-erste-asset-management-gmbh-2026-02-27/",
-          "time": "2 days ago"
-        },
-        {
-          "source": "www.marketbeat.com",
-          "title": "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-trivium-point-advisory-llc-lowers-stock-holdings-in-visa-inc-v-2026-02-28/",
-          "time": "1 day ago"
-        }
-      ]
-    },
-    {
       "id": "4f105133db27",
       "topic": "Why JPMorgan Chase Stock Slumped by Almost 2% Today | Nasdaq",
       "summary": "Many investors were shaken by this fear on Friday, and it motivated them to sell out of finance stocks. Even the mighty JPMorgan Chase (NYSE: JPM) couldn't escape the rout, even though its stock fell less precipitously than others with a 1.9% drop on the day.",
@@ -338,16 +352,16 @@
       ],
       "thumbnail": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc",
       "importance": 3,
-      "marketReaction": 3,
-      "priceChange": "-0.60%",
+      "marketReaction": 2,
+      "priceChange": "+0.31%",
       "spike": 1.03,
-      "direction": "down",
+      "direction": "flat",
       "tickers": [
         "JPM"
       ],
       "primaryTicker": "JPM",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:12.196292",
+      "publishedAt": "2026-03-01T18:15:12.063250",
       "articleCount": 1,
       "articles": [
         {
@@ -368,7 +382,7 @@
       "thumbnail": "https://imgs.search.brave.com/r4Hco-XY-OGM7UME-FSZtrnIHdJTbPVHyeth9GRuHuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL1RlY2hu/b2xvZ3klMjAobmFt/ZXMlMjBBJTIwLSUy/MEkpL0FscGhhYmV0/JTIwKEdvb2dsZSkl/MjBJbWFnZSUyMGJ5/JTIwTWFya3VzJTIw/TWFpbmthJTIwdmlh/JTIwU2h1dHRlcnN0/b2NrLmpwZw",
       "importance": 3,
       "marketReaction": 1,
-      "priceChange": "+0.03%",
+      "priceChange": "+0.27%",
       "spike": 0.92,
       "direction": "flat",
       "tickers": [
@@ -376,7 +390,7 @@
       ],
       "primaryTicker": "GOOGL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:10.852370",
+      "publishedAt": "2026-03-01T18:15:10.497543",
       "articleCount": 1,
       "articles": [
         {
@@ -405,7 +419,7 @@
       ],
       "primaryTicker": "BRK-B",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:45:11.990601",
+      "publishedAt": "2026-03-01T18:15:11.770179",
       "articleCount": 1,
       "articles": [
         {

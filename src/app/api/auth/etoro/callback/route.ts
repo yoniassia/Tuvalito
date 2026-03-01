@@ -1,17 +1,37 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { exchangeCodeForTokens, decodeJwtPayload } from '@/lib/etoro-sso';
 
+function getBaseUrl(request: NextRequest, redirectUri?: string): string {
+  // Priority: NEXT_PUBLIC_APP_URL > redirect URI origin > request origin
+  if (process.env.NEXT_PUBLIC_APP_URL) {
+    return process.env.NEXT_PUBLIC_APP_URL;
+  }
+  if (redirectUri) {
+    try {
+      return new URL(redirectUri).origin;
+    } catch {}
+  }
+  return request.nextUrl.origin;
+}
+
 export async function GET(request: NextRequest) {
   const searchParams = request.nextUrl.searchParams;
   const code = searchParams.get('code');
   const returnedState = searchParams.get('state');
   const error = searchParams.get('error');
 
+  const clientId = process.env.ETORO_SSO_CLIENT_ID;
+  const clientSecret = process.env.ETORO_SSO_CLIENT_SECRET;
+  const redirectUri = process.env.ETORO_SSO_REDIRECT_URI;
+  
+  // Get the correct base URL for redirects
+  const baseUrl = getBaseUrl(request, redirectUri);
+
   // Handle OAuth errors
   if (error) {
     const errorDescription = searchParams.get('error_description') || 'Login cancelled';
     return NextResponse.redirect(
-      new URL(`/?error=${encodeURIComponent(errorDescription)}`, request.url)
+      new URL(`/?error=${encodeURIComponent(errorDescription)}`, baseUrl)
     );
   }
 
@@ -22,23 +42,19 @@ export async function GET(request: NextRequest) {
   // Validate state (CSRF protection)
   if (!storedState || returnedState !== storedState) {
     return NextResponse.redirect(
-      new URL('/?error=State+mismatch+-+please+try+again', request.url)
+      new URL('/?error=State+mismatch+-+please+try+again', baseUrl)
     );
   }
 
   if (!code || !codeVerifier) {
     return NextResponse.redirect(
-      new URL('/?error=Missing+authorization+code', request.url)
+      new URL('/?error=Missing+authorization+code', baseUrl)
     );
   }
 
-  const clientId = process.env.ETORO_SSO_CLIENT_ID;
-  const clientSecret = process.env.ETORO_SSO_CLIENT_SECRET;
-  const redirectUri = process.env.ETORO_SSO_REDIRECT_URI;
-
   if (!clientId || !clientSecret || !redirectUri) {
     return NextResponse.redirect(
-      new URL('/?error=SSO+not+configured', request.url)
+      new URL('/?error=SSO+not+configured', baseUrl)
     );
   }
 
@@ -56,8 +72,8 @@ export async function GET(request: NextRequest) {
     const idTokenPayload = decodeJwtPayload(tokens.id_token);
     const etoroUserId = idTokenPayload.sub as string;
 
-    // Create session response
-    const response = NextResponse.redirect(new URL('/', request.url));
+    // Create session response - redirect to home page
+    const response = NextResponse.redirect(new URL('/', baseUrl));
 
     // Clear PKCE cookies
     response.cookies.delete('etoro_state');
@@ -91,7 +107,7 @@ export async function GET(request: NextRequest) {
   } catch (err) {
     console.error('Token exchange error:', err);
     return NextResponse.redirect(
-      new URL('/?error=Authentication+failed', request.url)
+      new URL('/?error=Authentication+failed', baseUrl)
     );
   }
 }
