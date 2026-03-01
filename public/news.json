@@ -1,0 +1,434 @@
+{
+  "lastUpdated": "2026-03-01T16:15:12.312786",
+  "clusters": [
+    {
+      "id": "1349a599438d",
+      "topic": "Nvidia Stock May Be Oversold - What is the Best NVDA Play?",
+      "summary": "Nvidia, Inc. generated a massive 124% YoY growth in free cash flow (FCF) in Q4 and 59% in 2025. Its FCF margins were over 51% of sales in Q4 and 44.7% in 2025. If that persists, NVDA stock could be worth at least 45% more.",
+      "headlines": [
+        "Nvidia Stock May Be Oversold - What is the Best NVDA Play?",
+        "Nvidia's Massive Free Cash Flow Margins Could Push NVDA Stock 45% Higher",
+        "NVIDIA: Becoming The Berkshire Of Technology Is Bullish For Shareholders (NASDAQ:NVDA) | Seeking Alpha"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/5Nudb8bW4Q8Jeolm7_vfb0ChXHzDG74juhC1ZOJkvfU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1RlY2gl/MjAoRWNvbW1lcmNl/JTJDJTIwU29jaWFs/JTIwTWVkaWElMkMl/MjBldGMuKS9Odmlk/aWElMjBsb2dvJTIw/YW5kJTIwc2lnbiUy/MG9uJTIwaGVhZHF1/YXJ0ZXJzJTIwYnkl/MjBNaWNoYWVsJTIw/VmklMjB2aWElMjBT/aHV0dGVyc3RvY2su/anBn",
+      "importance": 7,
+      "marketReaction": 5,
+      "priceChange": "-2.26%",
+      "spike": 0.98,
+      "direction": "down",
+      "tickers": [
+        "NVDA"
+      ],
+      "primaryTicker": "NVDA",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:11.173277",
+      "articleCount": 3,
+      "articles": [
+        {
+          "source": "www.barchart.com",
+          "title": "Nvidia Stock May Be Oversold - What is the Best NVDA Play?",
+          "url": "https://www.barchart.com/story/news/497012/nvidia-stock-may-be-oversold-what-is-the-best-nvda-play",
+          "time": "1 hour ago"
+        },
+        {
+          "source": "www.barchart.com",
+          "title": "Nvidia's Massive Free Cash Flow Margins Could Push NVDA Stock 45% Higher",
+          "url": "https://www.barchart.com/story/news/473218/nvidia-s-massive-free-cash-flow-margins-could-push-nvda-stock-45-higher",
+          "time": "2 days ago"
+        },
+        {
+          "source": "seekingalpha.com",
+          "title": "NVIDIA: Becoming The Berkshire Of Technology Is Bullish For Shareholders (NASDAQ:NVDA) | Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4876384-nvidia-becoming-the-berkshire-of-technology-is-bullish-for-shareholders",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "e846059c12fd",
+      "topic": "Insider Sale: Chief Financial Officer of $META Sells 10,436 Shares | META Stock ",
+      "summary": "Enter your email to receive free breaking news alerts and insights related to META. ... By: Quiver InsiderRadar, Automated Posted: 1 day, 2 hours ago / Feb. 26, 2026 11:33 p.m. UTC ... SUSAN J LI, the Chief Financial Officer of $META, sold 10,436 shares of the company on 02-24-2026 for an estimated ",
+      "headlines": [
+        "Insider Sale: Chief Financial Officer of $META Sells 10,436 Shares | META Stock News",
+        "Nvidia's stock wraps up tough week as Wall Street focuses more on competition than growth",
+        "Alford Peggy, Meta Platforms director, sells $252k in Meta stock By Investing.com",
+        "Meta stock slips after hours as Google AI chip rental report and EU legal setback keep costs in focus",
+        "Bank of America resets Meta stock forecast on deal with AMD - TheStreet"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/WCWew05fAevCgPmiRrXxrTojnG73HjddvI2vAQDFVVg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpdmVycXVhbnQu/Y29tL3N0YXRpYy9p/bWFnZXMvc2l0ZV9w/cmV2aWV3LnBuZw",
+      "importance": 6,
+      "marketReaction": 2,
+      "priceChange": "+0.71%",
+      "spike": 0.59,
+      "direction": "up",
+      "tickers": [
+        "META"
+      ],
+      "primaryTicker": "META",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:11.334165",
+      "articleCount": 6,
+      "articles": [
+        {
+          "source": "www.quiverquant.com",
+          "title": "Insider Sale: Chief Financial Officer of $META Sells 10,436 Shares | META Stock News",
+          "url": "https://www.quiverquant.com/news/Insider+Sale%3A+Chief+Financial+Officer+of+%24META+Sells+10%2C436+Shares",
+          "time": "3 days ago"
+        },
+        {
+          "source": "www.cnbc.com",
+          "title": "Nvidia's stock wraps up tough week as Wall Street focuses more on competition than growth",
+          "url": "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.investing.com",
+          "title": "Alford Peggy, Meta Platforms director, sells $252k in Meta stock By Investing.com",
+          "url": "https://www.investing.com/news/insider-trading-news/alford-peggy-meta-platforms-director-sells-252k-in-meta-stock-93CH-4532941",
+          "time": "2 days ago"
+        },
+        {
+          "source": "ts2.tech",
+          "title": "Meta stock slips after hours as Google AI chip rental report and EU legal setback keep costs in focus",
+          "url": "https://ts2.tech/en/meta-stock-slips-after-hours-as-google-ai-chip-rental-report-and-eu-legal-setback-keep-costs-in-focus/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.thestreet.com",
+          "title": "Bank of America resets Meta stock forecast on deal with AMD - TheStreet",
+          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-meta-stock-forecast-on-deal-with-amd",
+          "time": "3 days ago"
+        },
+        {
+          "source": "www.fool.com",
+          "title": "Is AMD a Buy After Meta Deal? | The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/02/27/is-amd-a-buy-after-meta-deal/",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "f53139c93f56",
+      "topic": "Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL",
+      "summary": "Truist Financial Corp boosted its holdings in shares of Apple Inc. (NASDAQ:AAPL - Free Report) by 2.8% in the 3rd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 7,031,344 shares of the iPhone maker's stock after purc",
+      "headlines": [
+        "Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL",
+        "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments | AAPL Stock News",
+        "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?",
+        "Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026 - TipRanks.com"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/1Wtu2DIbhwEXheQOKXKFakGV2QD5iuyZQPX_0rUWlAc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya2V0YmVhdC5j/b20vaW1hZ2VzL21h/cmtldGJlYXQtbG9n/by0xMjAwLTEyMDAu/anBnP3Y9MQ",
+      "importance": 6,
+      "marketReaction": 1,
+      "priceChange": "+0.14%",
+      "spike": 0.71,
+      "direction": "flat",
+      "tickers": [
+        "AAPL"
+      ],
+      "primaryTicker": "AAPL",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:10.503919",
+      "articleCount": 4,
+      "articles": [
+        {
+          "source": "www.marketbeat.com",
+          "title": "Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-truist-financial-corp-grows-stock-holdings-in-apple-inc-aapl-2026-02-27/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.quiverquant.com",
+          "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments | AAPL Stock News",
+          "url": "https://www.quiverquant.com/news/Apple+Stock+(AAPL)+Opinions+on+Low-Cost+MacBook+and+AI+Developments",
+          "time": "2 hours ago"
+        },
+        {
+          "source": "www.marketbeat.com",
+          "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?",
+          "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-shares-down-32-whats-next-2026-02-27/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026 - TipRanks.com",
+          "url": "https://www.tipranks.com/news/apple-aapl-expected-to-gain-share-even-as-smartphone-market-could-see-biggest-ever-drop-in-2026",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "67763dbc3e74",
+      "topic": "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
+      "summary": "Enter your email to receive free breaking news alerts and insights related to TSLA. ... By: Quiver DiscussionTracker Posted: 19 hours ago / Feb. 28, 2026 5:34 p.m. UTC ... Analyst upgrades ignite optimism: Social media discussions highlighted Baird's recent upgrade of Tesla to Outperform with a $548",
+      "headlines": [
+        "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
+        "Tesla Stock (TSLA) Opinions on Analyst Upgrades and Valuation Clashes | TSLA Stock News",
+        "Why Tesla stock keeps falling: here's top 3 reasons \u2014 TradingView News",
+        "Tesla Stock Slips as Cybercab Leader Victor Nechita Exists, Calls it a \u2018Humbling Experience\u2019 - TipRanks.com",
+        "Is Tesla (TSLA) Pricing Fair After Recent Share Price Declines And Lofty Growth Hopes? - Simply Wall St News"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/6orneOuMcQVeSBSHxbyaDZJzJnms4xqT0umx1DjR_Ao/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL0NvbnN1/bWVyJTIwQ3ljbGlj/YWwlMjAobmFtZXMl/MjBJJTIwLSUyMFop/L1Rlc2xhJTIwSW5j/JTIwbG9nbyUyMGJ5/LSUyMGJhaWxleXN0/b2NrJTIwdmlhJTIw/aVN0b2NrLmpwZw",
+      "importance": 6,
+      "marketReaction": 1,
+      "priceChange": "-0.06%",
+      "spike": 0.59,
+      "direction": "flat",
+      "tickers": [
+        "TSLA"
+      ],
+      "primaryTicker": "TSLA",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:11.540928",
+      "articleCount": 5,
+      "articles": [
+        {
+          "source": "www.barchart.com",
+          "title": "Tesla Stock Forecast: Is TSLA Headed to $25 Or $600 in 2026?",
+          "url": "https://www.barchart.com/story/news/449368/tesla-stock-forecast-is-tsla-headed-to-25-or-600-in-2026",
+          "time": "3 days ago"
+        },
+        {
+          "source": "www.quiverquant.com",
+          "title": "Tesla Stock (TSLA) Opinions on Analyst Upgrades and Valuation Clashes | TSLA Stock News",
+          "url": "https://www.quiverquant.com/news/Tesla+Stock+%28TSLA%29+Opinions+on+Analyst+Upgrades+and+Valuation+Clashes",
+          "time": "1 day ago"
+        },
+        {
+          "source": "www.tradingview.com",
+          "title": "Why Tesla stock keeps falling: here's top 3 reasons \u2014 TradingView News",
+          "url": "https://www.tradingview.com/news/invezz:5046bc153094b:0-why-tesla-stock-keeps-falling-here-s-top-3-reasons/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "Tesla Stock Slips as Cybercab Leader Victor Nechita Exists, Calls it a \u2018Humbling Experience\u2019 - TipRanks.com",
+          "url": "https://www.tipranks.com/news/tesla-stock-slips-as-cybercab-leader-victor-nechita-exists-calls-it-a-humbling-experience",
+          "time": "2 days ago"
+        },
+        {
+          "source": "simplywall.st",
+          "title": "Is Tesla (TSLA) Pricing Fair After Recent Share Price Declines And Lofty Growth Hopes? - Simply Wall St News",
+          "url": "https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/is-tesla-tsla-pricing-fair-after-recent-share-price-declines",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "f7dfe92fb713",
+      "topic": "Amazon Stock: Bank of America Lifts Price Target | AMZN - TheStreet",
+      "summary": "If you are wondering whether Amazon.com is still a reasonable entry at around US$209.97, the key question is whether the current price reflects its underlying business value. After a 121.3% return over 3 years but a 13.6% decline over the past 30 days and a 7.3% decline year to date, some investors ",
+      "headlines": [
+        "Amazon Stock: Bank of America Lifts Price Target | AMZN - TheStreet",
+        "Reassessing Amazon.com (AMZN) After 121% Three Year Rally And Recent Share Price Pullback - Simply Wall St News",
+        "Amazon stock price slides as $50 billion OpenAI investment talk hangs over AMZN"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/wwrHgaKctKkJ2ODyrFwJk-VBaLwvzJcN4uuKilmbCj0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2Uvd18x/MjAwLGhfNjMwLGdf/YXV0byxjX2ZpbGwv/TkRBNk1EQXdNREF3/TURBeU9EazNNemcw/L2FuZHJldy1qYXNz/eS1jaGllZi1leGVj/dXRpdmUtb2ZmaWNl/ci1vZi13ZWItc2Vy/dmljZXMtZm9yLWFt/YXpvbmNvbS1pbmMt/c3BlYWtzLWR1cmlu/Zy10aGUtMjAxOS1j/ZXJhd2Vlay1ieS1p/aHMtbWFya2l0LWNv/bmZlcmVuY2UtaW4t/aG91c3Rvbi10ZXhh/cy11cy1vbi1tb25k/YXktbWFyY2gtMTEt/MjAxOS10aGUtcHJv/Z3JhbS1wcm92aWRl/cy1jb21wcmVoLmpw/Zw",
+      "importance": 6,
+      "marketReaction": 1,
+      "priceChange": "-0.07%",
+      "spike": 0.65,
+      "direction": "flat",
+      "tickers": [
+        "AMZN"
+      ],
+      "primaryTicker": "AMZN",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:11.712262",
+      "articleCount": 3,
+      "articles": [
+        {
+          "source": "www.thestreet.com",
+          "title": "Amazon Stock: Bank of America Lifts Price Target | AMZN - TheStreet",
+          "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-amazon-stock-price-target",
+          "time": "2 days ago"
+        },
+        {
+          "source": "simplywall.st",
+          "title": "Reassessing Amazon.com (AMZN) After 121% Three Year Rally And Recent Share Price Pullback - Simply Wall St News",
+          "url": "https://simplywall.st/stocks/us/retail/nasdaq-amzn/amazoncom/news/reassessing-amazoncom-amzn-after-121-three-year-rally-and-re",
+          "time": "1 day ago"
+        },
+        {
+          "source": "ts2.tech",
+          "title": "Amazon stock price slides as $50 billion OpenAI investment talk hangs over AMZN",
+          "url": "https://ts2.tech/en/amazon-stock-price-slides-as-50-billion-openai-investment-talk-hangs-over-amzn/",
+          "time": "3 days ago"
+        }
+      ]
+    },
+    {
+      "id": "0d47700ce878",
+      "topic": "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
+      "summary": "Erste Asset Management GmbH reduced its position in shares of Visa Inc. (NYSE:V - Free Report) by 35.3% in the 3rd quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 443,826 shares of the credit-card processor's stock after sellin",
+      "headlines": [
+        "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
+        "Visa Inc. $V Shares Sold by Erste Asset Management GmbH",
+        "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/T7hKcsvdDruvhelEMIxoLrwfMvI_ufLggN4HECdsFnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOS9zaHV0dGVy/c3RvY2tfNTkzODcz/NDcxLTc1MHg0MDYu/anBn",
+      "importance": 6,
+      "marketReaction": 1,
+      "priceChange": "+0.03%",
+      "spike": 0.61,
+      "direction": "flat",
+      "tickers": [
+        "V"
+      ],
+      "primaryTicker": "V",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:12.312727",
+      "articleCount": 3,
+      "articles": [
+        {
+          "source": "www.tipranks.com",
+          "title": "Visa Adjusts Share Conversion After Litigation Escrow Deposit - TipRanks.com",
+          "url": "https://www.tipranks.com/news/company-announcements/visa-adjusts-share-conversion-after-litigation-escrow-deposit",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.marketbeat.com",
+          "title": "Visa Inc. $V Shares Sold by Erste Asset Management GmbH",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-visa-inc-v-shares-sold-by-erste-asset-management-gmbh-2026-02-27/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.marketbeat.com",
+          "title": "Trivium Point Advisory LLC Lowers Stock Holdings in Visa Inc. $V",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-trivium-point-advisory-llc-lowers-stock-holdings-in-visa-inc-v-2026-02-28/",
+          "time": "1 day ago"
+        }
+      ]
+    },
+    {
+      "id": "4f105133db27",
+      "topic": "Why JPMorgan Chase Stock Slumped by Almost 2% Today | Nasdaq",
+      "summary": "Many investors were shaken by this fear on Friday, and it motivated them to sell out of finance stocks. Even the mighty JPMorgan Chase (NYSE: JPM) couldn't escape the rout, even though its stock fell less precipitously than others with a 1.9% drop on the day.",
+      "headlines": [
+        "Why JPMorgan Chase Stock Slumped by Almost 2% Today | Nasdaq"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc",
+      "importance": 3,
+      "marketReaction": 2,
+      "priceChange": "-0.06%",
+      "spike": 1.03,
+      "direction": "flat",
+      "tickers": [
+        "JPM"
+      ],
+      "primaryTicker": "JPM",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:12.124735",
+      "articleCount": 1,
+      "articles": [
+        {
+          "source": "www.nasdaq.com",
+          "title": "Why JPMorgan Chase Stock Slumped by Almost 2% Today | Nasdaq",
+          "url": "https://www.nasdaq.com/articles/why-jpmorgan-chase-stock-slumped-almost-2-today",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "fe37afa7477e",
+      "topic": "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Buildi",
+      "summary": "And yet, there was another slew of news that didn\u2019t exactly sit well with investors. That was the huge influx of $37.5 billion in capex that the company spent last quarter. The overall fears ruminating throughout the market have been a drag on AI stocks recently, and MSFT is no exception.",
+      "headlines": [
+        "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
+        "How Low Can Microsoft Stock Go?",
+        "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/yvS52jlo-04HVzyQPFO_bs1Q7dnMjqNP7ZA4Fz1akB8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMi9taWNyb3Nv/ZnQtc2h1dHRlcnN0/b2NrXzI3NDAwMzUx/NjMtNzUweDQwNi5q/cGc",
+      "importance": 3,
+      "marketReaction": 1,
+      "priceChange": "-0.14%",
+      "spike": 0.5,
+      "direction": "flat",
+      "tickers": [
+        "MSFT"
+      ],
+      "primaryTicker": "MSFT",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:10.803629",
+      "articleCount": 3,
+      "articles": [
+        {
+          "source": "www.tipranks.com",
+          "title": "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
+          "url": "https://www.tipranks.com/news/on-hold-until-further-notice-microsoft-stock-nasdaqmsft-slumps-with-building-delay",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.forbes.com",
+          "title": "How Low Can Microsoft Stock Go?",
+          "url": "https://www.forbes.com/sites/greatspeculations/2026/02/27/how-low-can-microsoft-stock-go/",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com",
+          "url": "https://www.tipranks.com/news/holding-steady-says-investor-about-microsoft-stock",
+          "time": "1 hour ago"
+        }
+      ]
+    },
+    {
+      "id": "87097b9b8564",
+      "topic": "Michael Burry Still Doesn\u2019t Understand Google\u2019s AI Spending. Should You Ditch GO",
+      "summary": "As Alphabet goes all-in on AI, writing billion-dollar checks, Michael Burry waves a caution flag. Should investors stick around or pull back for now?",
+      "headlines": [
+        "Michael Burry Still Doesn\u2019t Understand Google\u2019s AI Spending. Should You Ditch GOOGL Stock Here?"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/r4Hco-XY-OGM7UME-FSZtrnIHdJTbPVHyeth9GRuHuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL1RlY2hu/b2xvZ3klMjAobmFt/ZXMlMjBBJTIwLSUy/MEkpL0FscGhhYmV0/JTIwKEdvb2dsZSkl/MjBJbWFnZSUyMGJ5/JTIwTWFya3VzJTIw/TWFpbmthJTIwdmlh/JTIwU2h1dHRlcnN0/b2NrLmpwZw",
+      "importance": 3,
+      "marketReaction": 1,
+      "priceChange": "-0.21%",
+      "spike": 0.92,
+      "direction": "flat",
+      "tickers": [
+        "GOOGL"
+      ],
+      "primaryTicker": "GOOGL",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:10.995841",
+      "articleCount": 1,
+      "articles": [
+        {
+          "source": "www.barchart.com",
+          "title": "Michael Burry Still Doesn\u2019t Understand Google\u2019s AI Spending. Should You Ditch GOOGL Stock Here?",
+          "url": "https://www.barchart.com/story/news/468515/michael-burry-still-doesnt-understand-googles-ai-spending-should-you-ditch-googl-stock-here",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "d2cdfacec307",
+      "topic": "Is the Warren Buffett Correction Coming? Buy His 4 Safest Dividend Stocks Now - ",
+      "summary": "These four four safe dividend stocks from the the Warren Buffett portfolio make sense for growth and income investors now. ... Berkshire Hathaway Inc. (NYSE: BRK-B) reported better-than-expected results for the third quarter, thanks to some outstanding performance from the insurance\u2026",
+      "headlines": [
+        "Is the Warren Buffett Correction Coming? Buy His 4 Safest Dividend Stocks Now - 24/7 Wall St."
+      ],
+      "thumbnail": "https://imgs.search.brave.com/cHUUvvidS1tzcvzkk8cJNpVT9eRpgBYVgRBFyY6Mc7w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8yNDd3/YWxsc3QuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEy/L2ltYWdlZm9yZW50/cnkxNTMuanBn",
+      "importance": 3,
+      "marketReaction": 1,
+      "priceChange": "0.00%",
+      "spike": 0,
+      "direction": "flat",
+      "tickers": [
+        "BRK-B"
+      ],
+      "primaryTicker": "BRK-B",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:15:11.941187",
+      "articleCount": 1,
+      "articles": [
+        {
+          "source": "247wallst.com",
+          "title": "Is the Warren Buffett Correction Coming? Buy His 4 Safest Dividend Stocks Now - 24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/02/27/is-the-warren-buffett-correction-coming-buy-his-4-safest-dividend-stocks-now/",
+          "time": "2 days ago"
+        }
+      ]
+    }
+  ]
+}
