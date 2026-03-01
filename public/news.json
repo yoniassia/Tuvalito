@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T16:15:12.312786",
+  "lastUpdated": "2026-03-01T16:30:12.115514",
   "clusters": [
     {
       "id": "1349a599438d",
@@ -21,14 +21,14 @@
       ],
       "primaryTicker": "NVDA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:11.173277",
+      "publishedAt": "2026-03-01T16:30:10.959896",
       "articleCount": 3,
       "articles": [
         {
           "source": "www.barchart.com",
           "title": "Nvidia Stock May Be Oversold - What is the Best NVDA Play?",
           "url": "https://www.barchart.com/story/news/497012/nvidia-stock-may-be-oversold-what-is-the-best-nvda-play",
-          "time": "1 hour ago"
+          "time": "2 hours ago"
         },
         {
           "source": "www.barchart.com",
@@ -40,6 +40,49 @@
           "source": "seekingalpha.com",
           "title": "NVIDIA: Becoming The Berkshire Of Technology Is Bullish For Shareholders (NASDAQ:NVDA) | Seeking Alpha",
           "url": "https://seekingalpha.com/article/4876384-nvidia-becoming-the-berkshire-of-technology-is-bullish-for-shareholders",
+          "time": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": "fe37afa7477e",
+      "topic": "Key facts: Microsoft a top investment; AI clients could boost revenue by $40B \u2014 ",
+      "summary": "MSFT \u00b7 Dan Ives from Wedbush Securities sees Microsoft as a top investment, noting 10% of Azure clients are pursuing AI, which could boost revenue by $35-$40 billion.1 \u00b7 Amdocs and Microsoft are collaborating to provide AI-driven application modernization solutions, utilizing Microsoft's ...",
+      "headlines": [
+        "Key facts: Microsoft a top investment; AI clients could boost revenue by $40B \u2014 TradingView News",
+        "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
+        "How Low Can Microsoft Stock Go?"
+      ],
+      "thumbnail": "https://imgs.search.brave.com/NxQxkucUcvbHhjDo31Djow4QESooWZ6wtVv0CoJYGuI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnRy/YWRpbmd2aWV3LmNv/bS9zdGF0aWMvaW1h/Z2VzL2lsbHVzdHJh/dGlvbnMvbmV3cy1z/dG9yeS5qcGc",
+      "importance": 6,
+      "marketReaction": 2,
+      "priceChange": "+0.58%",
+      "spike": 0.5,
+      "direction": "up",
+      "tickers": [
+        "MSFT"
+      ],
+      "primaryTicker": "MSFT",
+      "inPortfolio": false,
+      "publishedAt": "2026-03-01T16:30:10.472057",
+      "articleCount": 3,
+      "articles": [
+        {
+          "source": "www.tradingview.com",
+          "title": "Key facts: Microsoft a top investment; AI clients could boost revenue by $40B \u2014 TradingView News",
+          "url": "https://www.tradingview.com/news/tradingview:f6c724e0dcf7c:0-key-facts-microsoft-a-top-investment-ai-clients-could-boost-revenue-by-40b/",
+          "time": "1 day ago"
+        },
+        {
+          "source": "www.tipranks.com",
+          "title": "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
+          "url": "https://www.tipranks.com/news/on-hold-until-further-notice-microsoft-stock-nasdaqmsft-slumps-with-building-delay",
+          "time": "2 days ago"
+        },
+        {
+          "source": "www.forbes.com",
+          "title": "How Low Can Microsoft Stock Go?",
+          "url": "https://www.forbes.com/sites/greatspeculations/2026/02/27/how-low-can-microsoft-stock-go/",
           "time": "2 days ago"
         }
       ]
@@ -66,7 +109,7 @@
       ],
       "primaryTicker": "META",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:11.334165",
+      "publishedAt": "2026-03-01T16:30:11.161821",
       "articleCount": 6,
       "articles": [
         {
@@ -120,7 +163,7 @@
       "thumbnail": "https://imgs.search.brave.com/1Wtu2DIbhwEXheQOKXKFakGV2QD5iuyZQPX_0rUWlAc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya2V0YmVhdC5j/b20vaW1hZ2VzL21h/cmtldGJlYXQtbG9n/by0xMjAwLTEyMDAu/anBnP3Y9MQ",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "+0.14%",
+      "priceChange": "-0.14%",
       "spike": 0.71,
       "direction": "flat",
       "tickers": [
@@ -128,7 +171,7 @@
       ],
       "primaryTicker": "AAPL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:10.503919",
+      "publishedAt": "2026-03-01T16:30:10.284500",
       "articleCount": 4,
       "articles": [
         {
@@ -179,7 +222,7 @@
       ],
       "primaryTicker": "TSLA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:11.540928",
+      "publishedAt": "2026-03-01T16:30:11.371549",
       "articleCount": 5,
       "articles": [
         {
@@ -226,7 +269,7 @@
       "thumbnail": "https://imgs.search.brave.com/wwrHgaKctKkJ2ODyrFwJk-VBaLwvzJcN4uuKilmbCj0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2Uvd18x/MjAwLGhfNjMwLGdf/YXV0byxjX2ZpbGwv/TkRBNk1EQXdNREF3/TURBeU9EazNNemcw/L2FuZHJldy1qYXNz/eS1jaGllZi1leGVj/dXRpdmUtb2ZmaWNl/ci1vZi13ZWItc2Vy/dmljZXMtZm9yLWFt/YXpvbmNvbS1pbmMt/c3BlYWtzLWR1cmlu/Zy10aGUtMjAxOS1j/ZXJhd2Vlay1ieS1p/aHMtbWFya2l0LWNv/bmZlcmVuY2UtaW4t/aG91c3Rvbi10ZXhh/cy11cy1vbi1tb25k/YXktbWFyY2gtMTEt/MjAxOS10aGUtcHJv/Z3JhbS1wcm92aWRl/cy1jb21wcmVoLmpw/Zw",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "-0.07%",
+      "priceChange": "+0.45%",
       "spike": 0.65,
       "direction": "flat",
       "tickers": [
@@ -234,7 +277,7 @@
       ],
       "primaryTicker": "AMZN",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:11.712262",
+      "publishedAt": "2026-03-01T16:30:11.549978",
       "articleCount": 3,
       "articles": [
         {
@@ -269,7 +312,7 @@
       "thumbnail": "https://imgs.search.brave.com/T7hKcsvdDruvhelEMIxoLrwfMvI_ufLggN4HECdsFnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOS9zaHV0dGVy/c3RvY2tfNTkzODcz/NDcxLTc1MHg0MDYu/anBn",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "+0.03%",
+      "priceChange": "+0.08%",
       "spike": 0.61,
       "direction": "flat",
       "tickers": [
@@ -277,7 +320,7 @@
       ],
       "primaryTicker": "V",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:12.312727",
+      "publishedAt": "2026-03-01T16:30:12.115439",
       "articleCount": 3,
       "articles": [
         {
@@ -309,16 +352,16 @@
       ],
       "thumbnail": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc",
       "importance": 3,
-      "marketReaction": 2,
-      "priceChange": "-0.06%",
+      "marketReaction": 3,
+      "priceChange": "-0.63%",
       "spike": 1.03,
-      "direction": "flat",
+      "direction": "down",
       "tickers": [
         "JPM"
       ],
       "primaryTicker": "JPM",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:12.124735",
+      "publishedAt": "2026-03-01T16:30:12.010444",
       "articleCount": 1,
       "articles": [
         {
@@ -326,49 +369,6 @@
           "title": "Why JPMorgan Chase Stock Slumped by Almost 2% Today | Nasdaq",
           "url": "https://www.nasdaq.com/articles/why-jpmorgan-chase-stock-slumped-almost-2-today",
           "time": "2 days ago"
-        }
-      ]
-    },
-    {
-      "id": "fe37afa7477e",
-      "topic": "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Buildi",
-      "summary": "And yet, there was another slew of news that didn\u2019t exactly sit well with investors. That was the huge influx of $37.5 billion in capex that the company spent last quarter. The overall fears ruminating throughout the market have been a drag on AI stocks recently, and MSFT is no exception.",
-      "headlines": [
-        "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
-        "How Low Can Microsoft Stock Go?",
-        "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com"
-      ],
-      "thumbnail": "https://imgs.search.brave.com/yvS52jlo-04HVzyQPFO_bs1Q7dnMjqNP7ZA4Fz1akB8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Ni8wMi9taWNyb3Nv/ZnQtc2h1dHRlcnN0/b2NrXzI3NDAwMzUx/NjMtNzUweDQwNi5q/cGc",
-      "importance": 3,
-      "marketReaction": 1,
-      "priceChange": "-0.14%",
-      "spike": 0.5,
-      "direction": "flat",
-      "tickers": [
-        "MSFT"
-      ],
-      "primaryTicker": "MSFT",
-      "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:10.803629",
-      "articleCount": 3,
-      "articles": [
-        {
-          "source": "www.tipranks.com",
-          "title": "\u201cOn Hold Until Further Notice\u201d: Microsoft Stock (NASDAQ:MSFT) Slumps With Building Delay - TipRanks.com",
-          "url": "https://www.tipranks.com/news/on-hold-until-further-notice-microsoft-stock-nasdaqmsft-slumps-with-building-delay",
-          "time": "2 days ago"
-        },
-        {
-          "source": "www.forbes.com",
-          "title": "How Low Can Microsoft Stock Go?",
-          "url": "https://www.forbes.com/sites/greatspeculations/2026/02/27/how-low-can-microsoft-stock-go/",
-          "time": "2 days ago"
-        },
-        {
-          "source": "www.tipranks.com",
-          "title": "\u2018Holding Steady,\u2019 Says Investor About Microsoft Stock - TipRanks.com",
-          "url": "https://www.tipranks.com/news/holding-steady-says-investor-about-microsoft-stock",
-          "time": "1 hour ago"
         }
       ]
     },
@@ -382,7 +382,7 @@
       "thumbnail": "https://imgs.search.brave.com/r4Hco-XY-OGM7UME-FSZtrnIHdJTbPVHyeth9GRuHuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL1RlY2hu/b2xvZ3klMjAobmFt/ZXMlMjBBJTIwLSUy/MEkpL0FscGhhYmV0/JTIwKEdvb2dsZSkl/MjBJbWFnZSUyMGJ5/JTIwTWFya3VzJTIw/TWFpbmthJTIwdmlh/JTIwU2h1dHRlcnN0/b2NrLmpwZw",
       "importance": 3,
       "marketReaction": 1,
-      "priceChange": "-0.21%",
+      "priceChange": "+0.08%",
       "spike": 0.92,
       "direction": "flat",
       "tickers": [
@@ -390,7 +390,7 @@
       ],
       "primaryTicker": "GOOGL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:10.995841",
+      "publishedAt": "2026-03-01T16:30:10.776665",
       "articleCount": 1,
       "articles": [
         {
@@ -419,7 +419,7 @@
       ],
       "primaryTicker": "BRK-B",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:15:11.941187",
+      "publishedAt": "2026-03-01T16:30:11.795734",
       "articleCount": 1,
       "articles": [
         {
