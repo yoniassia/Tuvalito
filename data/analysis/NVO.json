@@ -1,0 +1,18 @@
+{
+  "symbol": "NVO",
+  "company": "Novo Nordisk",
+  "sector": "Healthcare - Pharma",
+  "best_method": "Peter Lynch",
+  "executive_summary": {
+    "verdict": "NVO BELOW Lynch! הזדמנות ב-Ozempic competitor",
+    "key_insight": "Lynch $90 > Price $51 = 77% BELOW! Competition fears overdone?"
+  },
+  "valuation_methods": {
+    "graham": {"current_value": 14.44, "current_price": 50.88, "premium_discount": -71.6},
+    "peter_lynch": {"current_value": 90.07, "current_price": 50.88, "premium_discount": 77.0},
+    "dcf": {"current_value": 31.58, "current_price": 50.88, "premium_discount": -37.9}
+  },
+  "status": "🔥🔥 BELOW Lynch!",
+  "recommendation": "INVESTIGATE - significantly below Lynch, Ozempic leader",
+  "note": "Original Ozempic/Wegovy maker - competition fears may be overdone"
+}

@@ -1,0 +1,36 @@
+{
+  "symbol": "COST",
+  "company": "Costco Wholesale Corporation",
+  "sector": "Consumer Defensive - Retail",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "COST = 4x premium לכל המטריקות. Membership moat אבל יקר מדי.",
+    "best_method": "None - all show 4x premium",
+    "key_insight": "Price $943 vs Lynch $227 vs DCF $246. Market pays 4x for membership moat."
+  },
+
+  "valuation_methods": {
+    "graham": {"current_value": 164, "premium_discount": -82.7, "recommendation": "❌ 5x premium"},
+    "peter_lynch": {"current_value": 227, "premium_discount": -75.9, "recommendation": "❌ 4x premium"},
+    "dcf": {"current_value": 246, "premium_discount": -73.9, "recommendation": "❌ 4x premium"}
+  },
+
+  "moat_analysis": {
+    "membership_model": "Recurring revenue, customer loyalty",
+    "buying_power": "Bulk purchasing = lowest prices",
+    "kirkland": "Private label brand - high margin",
+    "real_estate": "Owns most locations"
+  },
+
+  "risk_factors": {
+    "valuation": "4x premium - any stumble crashes stock",
+    "growth": "Limited room to grow - 900+ warehouses",
+    "amazon": "Competition for value shoppers"
+  },
+
+  "overall_rating": "⚠️ AVOID for value",
+  "confidence": "HIGH",
+  "key_differentiator": "Best retailer but 4x premium means no margin of safety"
+}

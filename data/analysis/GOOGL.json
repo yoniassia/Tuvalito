@@ -1,0 +1,81 @@
+{
+  "symbol": "GOOGL",
+  "company": "Alphabet Inc.",
+  "sector": "Technology - Internet Services",
+  "executive_summary": {
+    "verdict": "GOOGL הכי 'valued' מהטק הגדול - Peter Lynch עובד מעולה!",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number",
+    "key_insight": "ב-2022 Peter Lynch הראה ש-GOOGL CHEAP! המחיר $88 מול FV של $124. מי שקנה עשה 3.5x!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 80.61,
+      "current_price": 313,
+      "premium_discount": -74.2,
+      "correlation": {
+        "1Y": 0.82,
+        "5Y": 0.78,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 3.9 - הכי טוב מהטק!", "recommendation": "⚠️ עדיין גבוה"},
+        "5Y": {"text": "tracking סביר", "recommendation": "⚠️"},
+        "10Y": {"text": "פער יציב פי 2.5-4", "recommendation": "⚠️ crash indicator"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 181.10,
+      "current_price": 313,
+      "premium_discount": -42.1,
+      "correlation": {
+        "1Y": 0.85,
+        "5Y": 0.88,
+        "10Y": 0.82
+      },
+      "analysis": {
+        "1Y": {"text": "פער 73% - premium גבוה", "recommendation": "⚠️"},
+        "5Y": {"text": "ב-2022 היה BELOW FV! הזדמנות נדירה", "recommendation": "✅ מעולה לתזמון"},
+        "10Y": {"text": "tracking מצוין", "recommendation": "✅ הכי טוב ל-GOOGL"}
+      }
+    },
+    "dcf": {
+      "current_value": 103.73,
+      "current_price": 313,
+      "premium_discount": -66.8,
+      "correlation": {
+        "1Y": 0.80,
+        "5Y": 0.78,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 3", "recommendation": "⚠️ floor"},
+        "5Y": {"text": "tracking עקבי", "recommendation": "✅ שימושי"},
+        "10Y": {"text": "DCF עלה עם FCF", "recommendation": "✅"}
+      }
+    }
+  },
+  "historical_opportunities": {
+    "2022": {
+      "peter_lynch_fv": 124,
+      "price": 88,
+      "status": "40% BELOW FV! 🔥",
+      "return_if_bought": "3.5x"
+    },
+    "2023": {
+      "peter_lynch_fv": 129,
+      "price": 140,
+      "status": "~Fair"
+    },
+    "2025": {
+      "peter_lynch_fv": 181,
+      "price": 313,
+      "status": "+73% premium"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "WAIT for correction", "reason": "ב-2022 הייתה הזדמנות נדירה - חכה לבאה"},
+    "growth_investor": {"action": "HOLD", "reason": "AI + Cloud moat חזק"},
+    "dividend_investor": {"action": "N/A", "reason": "אין dividend"}
+  }
+}

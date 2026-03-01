@@ -1,0 +1,70 @@
+{
+  "symbol": "AMZN",
+  "company": "Amazon.com Inc.",
+  "sector": "Technology - E-commerce/Cloud",
+  "executive_summary": {
+    "verdict": "AMZN מתבגרת - Peter Lynch מראה התכנסות לשווי הוגן",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number",
+    "key_insight": "הפער מ-Peter Lynch הצטמצם מ-3.7x (2022) ל-1.5x (2025). המניה מתקרבת ל-fair value ככל שהחברה מתבגרת."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 69.20,
+      "current_price": 230.82,
+      "premium_discount": -70.0,
+      "correlation": {
+        "1Y": 0.75,
+        "5Y": 0.70,
+        "10Y": 0.65
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 3.3", "recommendation": "⚠️"},
+        "5Y": {"text": "Graham עלה עם רווחיות", "recommendation": "⚠️"},
+        "10Y": {"text": "היסטורית רווחים נמוכים", "recommendation": "❌ לא מתאים"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 150.48,
+      "current_price": 230.82,
+      "premium_discount": -34.8,
+      "correlation": {
+        "1Y": 0.85,
+        "5Y": 0.80,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער רק 54%! מתכנס", "recommendation": "✅ קרוב ל-fair"},
+        "5Y": {"text": "2022: פער 3.7x. 2025: 1.5x", "recommendation": "✅ מעולה"},
+        "10Y": {"text": "tracking משתפר", "recommendation": "✅ הכי טוב ל-AMZN"}
+      }
+    },
+    "dcf": {
+      "current_value": 48.10,
+      "current_price": 230.82,
+      "premium_discount": -79.2,
+      "correlation": {
+        "1Y": 0.72,
+        "5Y": 0.68,
+        "10Y": 0.65
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 4.8", "recommendation": "⚠️ שמרני"},
+        "5Y": {"text": "FCF reinvested", "recommendation": "⚠️"},
+        "10Y": {"text": "לא תופס growth", "recommendation": "❌ לא מתאים"}
+      }
+    }
+  },
+  "historical_convergence": {
+    "2016": {"peter_lynch": 6, "price": 37, "premium": "6x", "trend": "Growth mode"},
+    "2020": {"peter_lynch": 47, "price": 163, "premium": "3.5x", "trend": "COVID boom"},
+    "2022": {"peter_lynch": 23, "price": 84, "premium": "3.7x", "trend": "Crash"},
+    "2024": {"peter_lynch": 113, "price": 219, "premium": "1.9x", "trend": "Converging!"},
+    "2025": {"peter_lynch": 150, "price": 231, "premium": "1.5x", "trend": "Near fair ✅"}
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "CONSIDER", "reason": "מתקרבת ל-fair value - פער 54% בלבד"},
+    "growth_investor": {"action": "HOLD/BUY", "reason": "AWS + AI moat חזק, תמחור סביר יותר"},
+    "dividend_investor": {"action": "N/A", "reason": "אין dividend, buybacks התחילו"}
+  }
+}

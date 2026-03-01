@@ -1,0 +1,17 @@
+{
+  "symbol": "F",
+  "company": "Ford Motor Company",
+  "sector": "Consumer Cyclical - Auto",
+  "best_method": "Graham + DCF",
+  "executive_summary": {
+    "verdict": "🔥🔥 Ford BELOW Graham AND DCF!",
+    "key_insight": "Graham $15, DCF $31, Price $13 = massively undervalued"
+  },
+  "valuation_methods": {
+    "graham": {"current_value": 14.87, "current_price": 13.12, "premium_discount": 13.3},
+    "dcf": {"current_value": 30.66, "current_price": 13.12, "premium_discount": 133.7}
+  },
+  "status": "🔥🔥 Very Undervalued",
+  "upside": {"graham": "+13%", "dcf": "+134%"},
+  "recommendation": "STRONG INVESTIGATE - below both metrics"
+}

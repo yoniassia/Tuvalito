@@ -1,0 +1,1 @@
+{"symbol":"IBM","company":"IBM Corporation","sector":"Technology - IT Services","best_method":"DCF","valuation_methods":{"peter_lynch":{"current_value":96.73,"current_price":296.21,"premium_discount":-67.3},"dcf":{"current_value":175.83,"current_price":296.21,"premium_discount":-40.6}},"status":"⚠️ Premium","recommendation":"WAIT - 68% premium vs DCF"}

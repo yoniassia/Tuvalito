@@ -1,0 +1,79 @@
+{
+  "symbol": "C",
+  "company": "Citigroup Inc.",
+  "sector": "Financial Services - Banks",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "C is near Graham fair value BUT DCF collapsed from $198 to $0! Major warning sign.",
+    "best_method": "Graham (near book value)",
+    "worst_method": "DCF (collapsed 100%)",
+    "key_insight": "Graham $66 vs Price $66 = fair. BUT DCF crashed from $198 (2022) to $0 (2025). Why?"
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 66.00,
+      "current_price": 66.00,
+      "premium_discount": 0,
+      "recommendation": "At Graham fair value - trading at book value"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "recommendation": "Lynch not applicable for banks"
+    },
+    "dcf": {
+      "current_value": 0,
+      "current_price": 66.00,
+      "premium_discount": "COLLAPSED",
+      "periods": {
+        "3Y": {"analysis": "DCF: $198 (2022) → $0 (2025). Complete collapse!"},
+        "5Y": {"analysis": "DCF was stable at $180-200 then crashed to zero."}
+      },
+      "recommendation": "DCF collapse = FCF has evaporated. Major concern!"
+    }
+  },
+
+  "dcf_collapse_analysis": {
+    "question": "Why did DCF crash from $198 to $0?",
+    "possible_reasons": [
+      "Restructuring costs eating into FCF",
+      "One-time charges and write-downs",
+      "Legacy asset disposal losses",
+      "Regulatory and compliance costs"
+    ],
+    "conclusion": "Need to understand FCF trajectory before investing"
+  },
+
+  "comparison_to_peers": {
+    "jpm": "Trading at premium - best bank",
+    "bac": "Near book value - solid #2",
+    "c": "At book value BUT DCF collapsed - AVOID",
+    "wfc": "Below book value - turnaround story"
+  },
+
+  "risk_factors": {
+    "dcf_collapse": "FCF evaporated - need to understand why",
+    "restructuring": "Multi-year turnaround with uncertain results",
+    "regulation": "Global bank = complex regulatory environment",
+    "competition": "JPM and BAC are better positioned"
+  },
+
+  "bull_case": {
+    "thesis": "Turnaround succeeds. Trading at book value. DCF recovers.",
+    "target": "$80-90",
+    "upside": "21-36%"
+  },
+
+  "bear_case": {
+    "thesis": "Turnaround fails. FCF stays zero. Permanent discount.",
+    "target": "$45-55",
+    "downside": "17-32%"
+  },
+
+  "overall_rating": "⚠️ AVOID (DCF collapsed)",
+  "confidence": "MEDIUM",
+  "key_warning": "DCF collapsed from $198 to $0. Understand why before investing.",
+  "time_horizon": "Wait for clarity"
+}

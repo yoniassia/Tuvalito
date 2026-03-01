@@ -1,0 +1,68 @@
+{
+  "symbol": "GM",
+  "company": "General Motors Company",
+  "sector": "Consumer Cyclical - Auto Manufacturers",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "GM has NEGATIVE DCF for 10 consecutive years! This is a major red flag.",
+    "best_method": "Graham (only positive metric)",
+    "worst_method": "DCF (consistently negative)",
+    "key_insight": "DCF negative for 10 years: -$6 to -$16. Market knows something we don't."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 58.00,
+      "current_price": 50.00,
+      "premium_discount": 16,
+      "recommendation": "16% below Graham - but Graham alone is not enough"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "recommendation": "Lynch = 0 for auto companies (cyclical, no consistent growth)"
+    },
+    "dcf": {
+      "current_value": -16.09,
+      "current_price": 50.00,
+      "premium_discount": "NEGATIVE",
+      "periods": {
+        "5Y": {"analysis": "DCF: -$12 → -$8 → -$9 → -$15 → -$16. ALWAYS NEGATIVE!"},
+        "10Y": {"analysis": "Not a single positive DCF year. This is extremely rare and concerning."}
+      },
+      "recommendation": "NEGATIVE DCF = Cash flows don't support current valuation"
+    }
+  },
+
+  "why_dcf_negative": {
+    "capital_intensive": "Auto manufacturing requires massive ongoing capex",
+    "ev_transition": "Billions invested in EV with uncertain returns",
+    "cyclicality": "Revenue and profits swing wildly with economy",
+    "legacy_costs": "Pension and healthcare obligations weigh on FCF"
+  },
+
+  "risk_factors": {
+    "ev_transition": "Spending billions on EVs that may not be profitable",
+    "competition": "Tesla, Chinese EVs, legacy automakers all competing",
+    "recession": "Auto sales collapse during recessions",
+    "uaw_labor": "Labor costs and union negotiations"
+  },
+
+  "bull_case": {
+    "thesis": "EV transition succeeds. Cruise (autonomous) becomes valuable. Below book value.",
+    "target": "$60-70",
+    "upside": "20-40%"
+  },
+
+  "bear_case": {
+    "thesis": "EV money pit. Recession. Chinese competition. Legacy costs.",
+    "target": "$25-35",
+    "downside": "30-50%"
+  },
+
+  "overall_rating": "⚠️ SPECULATIVE BUY",
+  "confidence": "LOW",
+  "key_warning": "10 years of NEGATIVE DCF is a massive red flag. Only for speculators.",
+  "time_horizon": "High risk"
+}

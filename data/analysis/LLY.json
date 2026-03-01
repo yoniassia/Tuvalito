@@ -1,0 +1,55 @@
+{
+  "symbol": "LLY",
+  "company": "Eli Lilly",
+  "sector": "Healthcare - Pharma",
+  "executive_summary": {
+    "verdict": "LLY - Ozempic/Mounjaro hype. יקרה לפי כל מטריקה",
+    "best_method": "Peter Lynch (closest at 77% premium)",
+    "worst_method": "Graham/DCF (90%+ premium)",
+    "key_insight": "Lynch $606 vs Price $1075 = 77% premium. Hot but expensive."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 92.72,
+      "current_price": 1074.68,
+      "premium_discount": -91.4,
+      "correlation": {"1Y": 0.50, "3Y": 0.55, "5Y": 0.60},
+      "analysis": {
+        "1Y": {"text": "פער פי 11.6!", "recommendation": "❌ לא רלוונטי"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 605.68,
+      "current_price": 1074.68,
+      "premium_discount": -43.6,
+      "correlation": {"1Y": 0.72, "3Y": 0.70, "5Y": 0.68},
+      "analysis": {
+        "1Y": {"text": "77% premium - high but growth is real", "recommendation": "⚠️ expensive but justified?"}
+      }
+    },
+    "dcf": {
+      "current_value": 74.80,
+      "current_price": 1074.68,
+      "premium_discount": -93.0,
+      "correlation": {"1Y": 0.55, "3Y": 0.58, "5Y": 0.60},
+      "analysis": {
+        "1Y": {"text": "פער פי 14!", "recommendation": "❌ לא רלוונטי"}
+      }
+    }
+  },
+  "growth_drivers": [
+    "Mounjaro/Zepbound - GLP-1 weight loss drugs",
+    "Massive TAM - obesity epidemic",
+    "First-mover advantage in premium segment"
+  ],
+  "risks": [
+    "Competition from Novo Nordisk",
+    "Price negotiations with government",
+    "Patent expiration timeline"
+  ],
+  "recommendation_matrix": {
+    "value_investor": {"action": "AVOID", "reason": "77%+ premium - no margin of safety"},
+    "growth_investor": {"action": "HOLD if own", "reason": "Mounjaro/Zepbound growth is real"},
+    "dividend_investor": {"action": "N/A", "reason": "Low yield, growth stock"}
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "symbol": "BABA",
+  "company": "Alibaba Group Holding",
+  "sector": "Consumer Cyclical - E-commerce",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "BABA is trading below DCF due to China risk, not fundamentals. High risk/reward opportunity.",
+    "best_method": "DCF (massive discount)",
+    "worst_method": "Graham (China accounting)",
+    "key_insight": "DCF $150+ vs Price $102 = 47% upside. BUT China regulatory risk is real."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "recommendation": "Graham not reliable for Chinese ADRs - accounting differences"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "recommendation": "Lynch = 0 as growth has slowed post-regulatory crackdown"
+    },
+    "dcf": {
+      "current_value": 150.00,
+      "current_price": 102.00,
+      "premium_discount": 47,
+      "periods": {
+        "3Y": {"analysis": "DCF crashed from $300 to $150 during regulatory crackdown"},
+        "Current": {"analysis": "At $150 DCF with $100 price = massive China discount"}
+      },
+      "recommendation": "47% below DCF - but China risk is the key variable"
+    }
+  },
+
+  "china_risk_analysis": {
+    "regulatory": "Ant Financial IPO cancelled, fines imposed",
+    "geopolitical": "US-China tensions, potential delisting risk",
+    "economic": "China economy slowing, property crisis",
+    "mitigating": "Hong Kong listing provides alternative"
+  },
+
+  "business_strengths": {
+    "cloud": "Alibaba Cloud - #1 in China",
+    "ecommerce": "Taobao/Tmall dominate China retail",
+    "logistics": "Cainiao logistics network",
+    "payments": "Alipay (33% stake in Ant)"
+  },
+
+  "risk_factors": {
+    "china_regulatory": "Government can change rules anytime",
+    "competition": "JD, PDD taking market share",
+    "delisting": "US ADR delisting risk (mitigated by HK listing)",
+    "macro": "China economic slowdown"
+  },
+
+  "bull_case": {
+    "thesis": "China reopens, regulatory pressure eases, fundamentals strong.",
+    "target": "$130-180",
+    "upside": "27-76%"
+  },
+
+  "bear_case": {
+    "thesis": "Regulatory crackdown continues, US delisting, economic crisis.",
+    "target": "$60-80",
+    "downside": "22-41%"
+  },
+
+  "overall_rating": "🔥 BUY (high risk/reward)",
+  "confidence": "MEDIUM",
+  "key_warning": "Only for investors comfortable with China risk",
+  "time_horizon": "12-36 months"
+}

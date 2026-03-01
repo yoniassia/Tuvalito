@@ -1,0 +1,1 @@
+{"symbol":"CSCO","company":"Cisco Systems","sector":"Technology - Networking","best_method":"DCF","valuation_methods":{"peter_lynch":{"current_value":0},"dcf":{"current_value":43.26,"current_price":68.08,"premium_discount":-36.5}},"warning":"⚠️ Lynch = 0 - no growth!","status":"⚠️ Warning","recommendation":"CAUTION - Lynch=0 pattern"}

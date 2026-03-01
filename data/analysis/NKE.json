@@ -1,0 +1,51 @@
+{
+  "symbol": "NKE",
+  "company": "Nike Inc.",
+  "sector": "Consumer Discretionary - Apparel",
+  "executive_summary": {
+    "verdict": "NKE ירדה 36% - Peter Lynch הפך ל-0! סימן אזהרה",
+    "best_method": "DCF (only one that works now)",
+    "worst_method": "Peter Lynch (went to 0)",
+    "key_insight": "2024: Lynch $32 vs Price $95 = 3x premium. 2025: Lynch = 0, Price $61. צמיחה נעלמה!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 20.46,
+      "current_price": 60.59,
+      "premium_discount": -66.2,
+      "correlation": {"1Y": 0.70, "3Y": 0.72, "5Y": 0.75},
+      "analysis": {
+        "1Y": {"text": "3x premium", "recommendation": "⚠️"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "current_price": 60.59,
+      "premium_discount": -100,
+      "correlation": {"1Y": 0, "3Y": 0.50, "5Y": 0.65},
+      "analysis": {
+        "1Y": {"text": "Lynch = 0! צמיחה נעלמה", "recommendation": "❌ סימן אזהרה"},
+        "3Y": {"text": "2024: היה $32 (3x premium)", "recommendation": "⚠️"}
+      }
+    },
+    "dcf": {
+      "current_value": 37.33,
+      "current_price": 60.59,
+      "premium_discount": -38.4,
+      "correlation": {"1Y": 0.78, "3Y": 0.75, "5Y": 0.72},
+      "analysis": {
+        "1Y": {"text": "62% premium - high but FCF still positive", "recommendation": "⚠️"}
+      }
+    }
+  },
+  "warning": "⚠️ Lynch went to 0 = growth collapsed. Similar pattern to INTC!",
+  "comparison_to_intc": {
+    "similarity": "Lynch went to 0, fundamentals deteriorating",
+    "difference": "NKE still has brand value, INTC lost tech moat"
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "CAUTION", "reason": "Could be INTC 2.0 - verify growth returns"},
+    "growth_investor": {"action": "AVOID", "reason": "Lynch = 0, no growth"},
+    "dividend_investor": {"action": "WATCH", "reason": "Dividend aristocrat but growth needed"}
+  }
+}

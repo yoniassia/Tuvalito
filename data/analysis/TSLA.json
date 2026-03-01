@@ -1,0 +1,94 @@
+{
+  "symbol": "TSLA",
+  "company": "Tesla Inc.",
+  "sector": "Automotive - Electric Vehicles",
+  "executive_summary": {
+    "verdict": "TSLA שוברת את כל שיטות ההערכה. זו לא מניה - זו הימור",
+    "best_method": "NONE - all fail",
+    "worst_method": "ALL",
+    "key_insight": "שנים עם רווחים שליליים (Graham=0, Lynch=0, DCF שלילי). עכשיו רווחית אבל המחיר פי 12-16 מכל fair value. זה Elon Premium, לא fundamentals."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 28.44,
+      "current_price": 449.72,
+      "premium_discount": -93.7,
+      "correlation": {
+        "1Y": 0.15,
+        "5Y": 0.12,
+        "10Y": 0.10
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 15.8!", "recommendation": "❌ חסר משמעות"},
+        "5Y": {"text": "היה 0 עד 2020", "recommendation": "❌"},
+        "10Y": {"text": "שנים ללא רווחים", "recommendation": "❌ לא רלוונטי"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 28.09,
+      "current_price": 449.72,
+      "premium_discount": -93.8,
+      "correlation": {
+        "1Y": 0.18,
+        "5Y": 0.15,
+        "10Y": 0.12
+      },
+      "analysis": {
+        "1Y": {"text": "Lynch יורד! צמיחה מאטה", "recommendation": "❌"},
+        "5Y": {"text": "היה 0 עד 2023", "recommendation": "❌"},
+        "10Y": {"text": "לא ניתן לחשב", "recommendation": "❌ לא רלוונטי"}
+      }
+    },
+    "dcf": {
+      "current_value": 37.92,
+      "current_price": 449.72,
+      "premium_discount": -91.6,
+      "correlation": {
+        "1Y": 0.20,
+        "5Y": 0.18,
+        "10Y": 0.15
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 11.8", "recommendation": "❌"},
+        "5Y": {"text": "היה שלילי עד 2020", "recommendation": "❌"},
+        "10Y": {"text": "שנים של FCF שלילי", "recommendation": "❌ לא רלוונטי"}
+      }
+    }
+  },
+  "historical_timeline": {
+    "2016-2019": {
+      "graham": 0,
+      "lynch": 0,
+      "dcf": "NEGATIVE",
+      "price": "14-28",
+      "status": "No earnings"
+    },
+    "2020": {
+      "graham": 11,
+      "lynch": 0,
+      "dcf": 2,
+      "price": 235,
+      "status": "First profit!"
+    },
+    "2022": {
+      "graham": 34,
+      "lynch": 0,
+      "dcf": 17,
+      "price": 123,
+      "status": "Relatively 'cheap'"
+    },
+    "2025": {
+      "graham": 28,
+      "lynch": 28,
+      "dcf": 38,
+      "price": 450,
+      "status": "12-16x FV"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "AVOID", "reason": "אין שום metric שתומך במחיר"},
+    "growth_investor": {"action": "SPECULATE only", "reason": "הצמיחה מאטה, Lynch יורד"},
+    "momentum_investor": {"action": "TRADE", "reason": "תנודתיות גבוהה = הזדמנויות trading"}
+  },
+  "special_note": "TSLA זה לא investment, זה speculation על Elon/AI/Robotaxi."
+}

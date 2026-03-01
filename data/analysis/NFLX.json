@@ -1,0 +1,57 @@
+{
+  "symbol": "NFLX",
+  "company": "Netflix Inc.",
+  "sector": "Communication Services - Streaming",
+  "executive_summary": {
+    "verdict": "NFLX הייתה הזדמנות ב-2022 לפי Peter Lynch!",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number (always 0!)",
+    "key_insight": "ב-2022 Peter Lynch היה $25 והמחיר $29 - פער 19% בלבד! מי שקנה עשה 3x."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "current_price": 93.76,
+      "premium_discount": -100,
+      "correlation": {"1Y": 0, "5Y": 0, "10Y": 0},
+      "analysis": {
+        "1Y": {"text": "Graham = 0 (negative book value)", "recommendation": "❌ לא ניתן לחשב"},
+        "5Y": {"text": "תמיד 0", "recommendation": "❌"},
+        "10Y": {"text": "content liabilities", "recommendation": "❌ לעולם לא רלוונטי"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 33.76,
+      "current_price": 93.76,
+      "premium_discount": -64.0,
+      "correlation": {"1Y": 0.75, "5Y": 0.82, "10Y": 0.78},
+      "analysis": {
+        "1Y": {"text": "פער 2.8x", "recommendation": "⚠️ premium גבוה"},
+        "5Y": {"text": "2022: פער 19% בלבד! תחתית!", "recommendation": "✅ תפס את ההזדמנות"},
+        "10Y": {"text": "tracking סביר", "recommendation": "✅ הכי טוב ל-NFLX"}
+      }
+    },
+    "dcf": {
+      "current_value": 18.79,
+      "current_price": 93.76,
+      "premium_discount": -80.0,
+      "correlation": {"1Y": 0.70, "5Y": 0.65, "10Y": 0.55},
+      "analysis": {
+        "1Y": {"text": "פער פי 5", "recommendation": "⚠️"},
+        "5Y": {"text": "היה שלילי עד 2022", "recommendation": "⚠️"},
+        "10Y": {"text": "FCF שלילי שנים", "recommendation": "❌ לא היה רלוונטי"}
+      }
+    }
+  },
+  "historical_opportunities": {
+    "2021": {"peter_lynch": 28, "price": 60, "premium": "2.1x", "status": "Peak"},
+    "2022": {"peter_lynch": 25, "price": 29, "premium": "1.2x", "status": "🔥 BUY!", "return_if_bought": "3x"},
+    "2023": {"peter_lynch": 22, "price": 49, "premium": "2.2x", "status": "Recovery"},
+    "2025": {"peter_lynch": 34, "price": 94, "premium": "2.8x", "status": "Premium"}
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "WAIT", "reason": "premium 2.8x גבוה מדי"},
+    "growth_investor": {"action": "HOLD", "reason": "password sharing crackdown עובד"},
+    "dividend_investor": {"action": "N/A", "reason": "אין dividend"}
+  }
+}

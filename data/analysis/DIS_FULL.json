@@ -1,0 +1,67 @@
+{
+  "symbol": "DIS",
+  "company": "The Walt Disney Company",
+  "sector": "Communication Services - Entertainment",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "DIS is trading 19% below Lynch Fair Value! Streaming losses narrowing, parks thriving.",
+    "best_method": "Peter Lynch (media/entertainment growth)",
+    "worst_method": "Graham (negative book from acquisitions)",
+    "key_insight": "Lynch $120 vs Price $100 = 20% upside. Parks + content moat is undervalued."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "recommendation": "Graham not applicable - goodwill from Fox, Pixar, Marvel, Lucasfilm"
+    },
+    "peter_lynch": {
+      "current_value": 120.00,
+      "current_price": 100.00,
+      "premium_discount": 20,
+      "periods": {
+        "5Y": {"analysis": "Lynch crashed from $200 to $120 as streaming burned cash"},
+        "Current": {"analysis": "Streaming losses narrowing, Lynch stabilizing"}
+      },
+      "recommendation": "20% below Lynch - reasonable entry point"
+    },
+    "dcf": {
+      "current_value": 95.00,
+      "current_price": 100.00,
+      "premium_discount": -5,
+      "recommendation": "Near DCF fair value - not cheap but not expensive"
+    }
+  },
+
+  "business_segments": {
+    "parks": "Theme parks thriving - highest margin segment",
+    "streaming": "Disney+ losses narrowing, path to profitability",
+    "content": "Marvel, Star Wars, Pixar, Disney Animation",
+    "espn": "ESPN restructuring in progress"
+  },
+
+  "risk_factors": {
+    "streaming_competition": "Netflix, Amazon, Apple all competing",
+    "content_costs": "Expensive to produce Marvel/Star Wars content",
+    "espn_cord_cutting": "ESPN facing subscriber declines",
+    "economic_sensitivity": "Parks vulnerable to recession"
+  },
+
+  "bull_case": {
+    "thesis": "Streaming turns profitable. Parks keep growing. Content moat unmatched.",
+    "target": "$130-150",
+    "upside": "30-50%"
+  },
+
+  "bear_case": {
+    "thesis": "Streaming never profitable. Content fatigue. Recession hits parks.",
+    "target": "$70-85",
+    "downside": "15-30%"
+  },
+
+  "overall_rating": "🔥 BUY",
+  "confidence": "MEDIUM-HIGH",
+  "time_horizon": "12-24 months"
+}

@@ -1,0 +1,65 @@
+{
+  "symbol": "NVO",
+  "company": "Novo Nordisk A/S",
+  "sector": "Healthcare - Pharmaceuticals",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "NVO is trading BELOW Lynch fair value despite being the Ozempic leader. Rare opportunity in a secular growth story.",
+    "best_method": "Peter Lynch (growth company)",
+    "worst_method": "Graham (not applicable for growth stocks)",
+    "key_insight": "Lynch $90 vs Price $51 = 77% below fair value. Obesity drug market exploding."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "recommendation": "Graham not applicable - high-growth pharma doesn't fit value framework"
+    },
+    "peter_lynch": {
+      "current_value": 90.00,
+      "current_price": 51.00,
+      "premium_discount": 77,
+      "periods": {
+        "5Y": {"analysis": "Lynch grew from $30 to $90 as Ozempic revenue exploded"},
+        "10Y": {"analysis": "Consistent growth trajectory, accelerating with GLP-1 boom"}
+      },
+      "recommendation": "77% below Lynch - exceptional value for the growth rate"
+    },
+    "dcf": {
+      "current_value": null,
+      "recommendation": "DCF less reliable for high-growth pharma with uncertain patent timelines"
+    }
+  },
+
+  "growth_drivers": {
+    "ozempic": "Diabetes drug, $15B+ annual revenue",
+    "wegovy": "Obesity drug, demand exceeds supply",
+    "pipeline": "Next-gen GLP-1s in development",
+    "market_size": "Obesity market could reach $100B+ by 2030"
+  },
+
+  "risk_factors": {
+    "competition": "Eli Lilly (Mounjaro/Zepbound) is the main threat",
+    "supply": "Manufacturing capacity constraints",
+    "pricing": "Political pressure on drug prices",
+    "patent_cliff": "Eventually faces generic competition"
+  },
+
+  "bull_case": {
+    "thesis": "Obesity epidemic + GLP-1 adoption = secular growth story. Supply catches up.",
+    "target": "$80-100",
+    "upside": "57-96%"
+  },
+
+  "bear_case": {
+    "thesis": "Lilly takes market share. Pricing pressure. Side effect concerns.",
+    "target": "$40-45",
+    "downside": "12-22%"
+  },
+
+  "overall_rating": "🔥🔥🔥 STRONG BUY",
+  "confidence": "HIGH",
+  "time_horizon": "12-36 months"
+}

@@ -1,0 +1,35 @@
+{
+  "symbol": "CVX",
+  "company": "Chevron Corporation",
+  "sector": "Energy - Oil & Gas",
+  "best_method": "DCF + Lynch",
+  "executive_summary": {
+    "verdict": "CVX BELOW DCF! הזדמנות ב-Energy",
+    "key_insight": "Lynch $149 ≈ Price $152 (2% premium). DCF $185 > Price = 18% BELOW DCF!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 124.28,
+      "current_price": 152.41,
+      "premium_discount": -18.5
+    },
+    "peter_lynch": {
+      "current_value": 149.18,
+      "current_price": 152.41,
+      "premium_discount": -2.1
+    },
+    "dcf": {
+      "current_value": 185.38,
+      "current_price": 152.41,
+      "premium_discount": 21.6
+    },
+    "gf_value": {
+      "current_value": 141.13,
+      "current_price": 152.41,
+      "premium_discount": -7.4
+    }
+  },
+  "status": "🔥 BELOW DCF!",
+  "recommendation": "CONSIDER - Lynch at fair, DCF shows undervalued",
+  "dividend_yield": "~4%"
+}

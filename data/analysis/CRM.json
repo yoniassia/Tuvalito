@@ -1,0 +1,57 @@
+{
+  "symbol": "CRM",
+  "company": "Salesforce Inc.",
+  "sector": "Technology - Enterprise Software",
+  "executive_summary": {
+    "verdict": "CRM מתבגרת - Peter Lynch מתכנס ל-fair value",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number",
+    "key_insight": "הפער מ-Peter Lynch ירד מ-94% (2022) ל-34% (2025). החברה מתבגרת והתמחור מתייצב."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 36.10,
+      "current_price": 341.70,
+      "premium_discount": -89.4,
+      "correlation": {"1Y": 0.55, "5Y": 0.50, "10Y": 0.45},
+      "analysis": {
+        "1Y": {"text": "פער פי 9.5", "recommendation": "❌"},
+        "5Y": {"text": "תנודתי מאוד", "recommendation": "❌"},
+        "10Y": {"text": "לא יציב", "recommendation": "❌"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 254.75,
+      "current_price": 341.70,
+      "premium_discount": -25.4,
+      "correlation": {"1Y": 0.85, "5Y": 0.80, "10Y": 0.75},
+      "analysis": {
+        "1Y": {"text": "פער 34% - מתכנס!", "recommendation": "✅ קרוב ל-fair"},
+        "5Y": {"text": "2023: 51% premium", "recommendation": "✅ משתפר"},
+        "10Y": {"text": "tracking טוב", "recommendation": "✅ הכי טוב ל-CRM"}
+      }
+    },
+    "dcf": {
+      "current_value": 154.41,
+      "current_price": 341.70,
+      "premium_discount": -54.8,
+      "correlation": {"1Y": 0.78, "5Y": 0.75, "10Y": 0.72},
+      "analysis": {
+        "1Y": {"text": "פער 2.2x - סביר ל-SaaS", "recommendation": "✅"},
+        "5Y": {"text": "tracking עקבי", "recommendation": "✅"},
+        "10Y": {"text": "DCF עלה עם FCF", "recommendation": "✅"}
+      }
+    }
+  },
+  "historical_convergence": {
+    "2022": {"peter_lynch": 120, "price": 233, "premium": "94%"},
+    "2023": {"peter_lynch": 111, "price": 168, "premium": "51%"},
+    "2024": {"peter_lynch": 205, "price": 281, "premium": "37%"},
+    "2025": {"peter_lynch": 255, "price": 342, "premium": "34% ✅"}
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "CONSIDER", "reason": "34% premium סביר ל-SaaS leader"},
+    "growth_investor": {"action": "HOLD", "reason": "צמיחה מתונה אבל יציבה"},
+    "dividend_investor": {"action": "N/A", "reason": "התחילו buybacks"}
+  }
+}

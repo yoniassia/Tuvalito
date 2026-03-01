@@ -1,0 +1,59 @@
+{
+  "symbol": "INTC",
+  "company": "Intel Corporation",
+  "sector": "Technology - Semiconductors",
+  "executive_summary": {
+    "verdict": "INTC - דוגמה ל-VALUE TRAP. נראתה זולה, אבל הייתה זולה מסיבה!",
+    "best_method": "DCF (historically)",
+    "worst_method": "Peter Lynch (went to 0)",
+    "key_insight": "ב-2020-2022 INTC נראתה CHEAP לפי כל המטריקות. אבל החברה הידרדרה - זו לא הזדמנות, זו מלכודת ערך."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 12.87,
+      "current_price": 36.90,
+      "premium_discount": -65.1,
+      "correlation": {"1Y": 0.60, "5Y": 0.65, "10Y": 0.70},
+      "analysis": {
+        "1Y": {"text": "פער 2.9x, היה 0 ב-2024", "recommendation": "⚠️ unstable"},
+        "5Y": {"text": "2022: AT GRAHAM! אבל מלכודת", "recommendation": "⚠️ value trap"},
+        "10Y": {"text": "היסטורית tracking סביר", "recommendation": "⚠️"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "current_price": 36.90,
+      "premium_discount": -100,
+      "correlation": {"1Y": 0, "5Y": 0.40, "10Y": 0.55},
+      "analysis": {
+        "1Y": {"text": "Lynch = 0 (אין צמיחה)", "recommendation": "❌ אין growth"},
+        "5Y": {"text": "היה 0 מ-2022", "recommendation": "❌"},
+        "10Y": {"text": "2019-2020: היה קרוב ל-fair!", "recommendation": "⚠️ היה טוב פעם"}
+      }
+    },
+    "dcf": {
+      "current_value": 16.18,
+      "current_price": 36.90,
+      "premium_discount": -56.2,
+      "correlation": {"1Y": 0.72, "5Y": 0.68, "10Y": 0.75},
+      "analysis": {
+        "1Y": {"text": "פער 2.3x", "recommendation": "⚠️"},
+        "5Y": {"text": "2020: BELOW DCF! אבל מלכודת", "recommendation": "⚠️ value trap"},
+        "10Y": {"text": "DCF ירד עם החברה", "recommendation": "✅ tracked decline"}
+      }
+    }
+  },
+  "historical_timeline": {
+    "2019": {"graham": 32, "lynch": 59, "dcf": 53, "price": 60, "status": "Fair ✅"},
+    "2020": {"graham": 36, "lynch": 81, "dcf": 67, "price": 50, "status": "CHEAP! 🔥"},
+    "2022": {"graham": 26, "lynch": 0, "dcf": 45, "price": 26, "status": "AT GRAHAM!"},
+    "2024": {"graham": 0, "lynch": 0, "dcf": 22, "price": 20, "status": "Collapse 💀"},
+    "2025": {"graham": 13, "lynch": 0, "dcf": 16, "price": 37, "status": "Recovery?"}
+  },
+  "lesson": "מניה יכולה להיות 'זולה' לפי כל המטריקות ועדיין להיות מלכודת. צריך לבדוק למה היא זולה!",
+  "recommendation_matrix": {
+    "value_investor": {"action": "CAUTION", "reason": "נראית זולה אבל fundamentals מתדרדרים"},
+    "growth_investor": {"action": "AVOID", "reason": "Lynch = 0, אין צמיחה"},
+    "dividend_investor": {"action": "RISKY", "reason": "dividend נחתך, לא בטוח"}
+  }
+}

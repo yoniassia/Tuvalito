@@ -1,0 +1,68 @@
+{
+  "symbol": "F",
+  "company": "Ford Motor Company",
+  "sector": "Consumer Cyclical - Auto Manufacturers",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "Ford is trading below BOTH Graham AND DCF - rare! But EV transition is risky and capital-intensive.",
+    "best_method": "Graham (below book value)",
+    "worst_method": "Lynch (cyclical, no consistent growth)",
+    "key_insight": "Graham $20 and DCF $19 vs Price $8.50. Trading at 50%+ discount to ALL metrics."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 20.00,
+      "current_price": 8.50,
+      "premium_discount": 135,
+      "recommendation": "135% below Graham - exceptionally cheap by book value"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "recommendation": "Lynch not applicable for cyclical automakers"
+    },
+    "dcf": {
+      "current_value": 19.00,
+      "current_price": 8.50,
+      "premium_discount": 124,
+      "periods": {
+        "5Y": {"analysis": "DCF volatile: $17-$25 range. Currently at $19."},
+        "Note": {"analysis": "Unlike GM, Ford has POSITIVE DCF!"}
+      },
+      "recommendation": "124% below DCF - massive discount"
+    }
+  },
+
+  "ford_vs_gm": {
+    "dcf_comparison": "Ford DCF = +$19, GM DCF = -$16. Ford wins.",
+    "ev_strategy": "Ford more focused (F-150 Lightning, Mustang Mach-E)",
+    "dividend": "Ford pays dividend, GM doesn't",
+    "conclusion": "Ford is the better value play among legacy automakers"
+  },
+
+  "risk_factors": {
+    "ev_transition": "Billions invested in EVs with uncertain returns",
+    "competition": "Tesla, Chinese EVs, legacy competitors",
+    "recession": "Auto sales collapse in recessions",
+    "uaw_labor": "Higher labor costs from UAW contract"
+  },
+
+  "bull_case": {
+    "thesis": "EV transition succeeds. F-150 Lightning dominates truck market. Dividend safe.",
+    "target": "$15-20",
+    "upside": "76-135%"
+  },
+
+  "bear_case": {
+    "thesis": "EV money pit. Recession crushes sales. Dividend cut.",
+    "target": "$5-7",
+    "downside": "18-41%"
+  },
+
+  "overall_rating": "🔥 BUY (with caution)",
+  "confidence": "MEDIUM",
+  "key_differentiator": "Better than GM (positive DCF), but auto industry is risky",
+  "time_horizon": "12-24 months"
+}

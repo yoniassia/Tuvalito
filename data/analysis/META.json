@@ -1,0 +1,90 @@
+{
+  "symbol": "META",
+  "company": "Meta Platforms Inc.",
+  "sector": "Technology - Social Media",
+  "executive_summary": {
+    "verdict": "META הכי 'valued' מכל הטק! הזדמנויות קנייה ב-2018 ו-2022",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number",
+    "key_insight": "META נתנה 2 הזדמנויות קנייה מושלמות לפי Peter Lynch: 2018 ו-2022. מי שקנה ב-2022 עשה 5.5x!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 198.32,
+      "current_price": 660.09,
+      "premium_discount": -70.0,
+      "correlation": {
+        "1Y": 0.80,
+        "5Y": 0.75,
+        "10Y": 0.72
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 3.3", "recommendation": "⚠️"},
+        "5Y": {"text": "תנודתי מאוד", "recommendation": "⚠️"},
+        "10Y": {"text": "Graham לא תפס את ההזדמנויות", "recommendation": "❌"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 534.89,
+      "current_price": 660.09,
+      "premium_discount": -19.0,
+      "correlation": {
+        "1Y": 0.88,
+        "5Y": 0.85,
+        "10Y": 0.82
+      },
+      "analysis": {
+        "1Y": {"text": "פער רק 23%! קרוב ל-fair", "recommendation": "✅ סביר"},
+        "5Y": {"text": "2022: BELOW FV! הזדמנות נדירה", "recommendation": "✅ מעולה"},
+        "10Y": {"text": "2 הזדמנויות: 2018 + 2022", "recommendation": "✅ הכי טוב ל-META"}
+      }
+    },
+    "dcf": {
+      "current_value": 282.34,
+      "current_price": 660.09,
+      "premium_discount": -57.2,
+      "correlation": {
+        "1Y": 0.82,
+        "5Y": 0.78,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 2.3", "recommendation": "⚠️"},
+        "5Y": {"text": "2022: אפילו DCF הראה CHEAP!", "recommendation": "✅ confirmation"},
+        "10Y": {"text": "tracking סביר", "recommendation": "✅"}
+      }
+    }
+  },
+  "historical_opportunities": {
+    "2018": {
+      "peter_lynch_fv": 189,
+      "dcf": 74,
+      "price": 131,
+      "status": "44% BELOW FV! 🔥"
+    },
+    "2021": {
+      "peter_lynch_fv": 346,
+      "dcf": 147,
+      "price": 336,
+      "status": "Fair ✅"
+    },
+    "2022": {
+      "peter_lynch_fv": 148,
+      "dcf": 163,
+      "price": 120,
+      "status": "BELOW BOTH! 🔥🔥",
+      "return_if_bought": "5.5x"
+    },
+    "2025": {
+      "peter_lynch_fv": 535,
+      "dcf": 282,
+      "price": 660,
+      "status": "+23% premium"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "WATCH for correction", "reason": "META נותנת הזדמנויות - צריך סבלנות"},
+    "growth_investor": {"action": "HOLD", "reason": "AI + Metaverse investments paying off"},
+    "dividend_investor": {"action": "ACCUMULATE", "reason": "התחילו dividend + buybacks"}
+  }
+}

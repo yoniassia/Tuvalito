@@ -1,0 +1,95 @@
+{
+  "symbol": "AVGO",
+  "company": "Broadcom Inc.",
+  "sector": "Technology - Semiconductors",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "AVGO = AI networking hype. יקר מאוד לפי כל המטריקות.",
+    "best_method": "Lynch (200% premium)",
+    "worst_method": "DCF (460% premium!)",
+    "key_insight": "Price $370 vs Lynch $123 vs DCF $66 vs GF Value $240. Premium across ALL metrics."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "reason": "Negative book value from VMware acquisition ($69B)",
+      "recommendation": "❌ Graham not applicable"
+    },
+    "peter_lynch": {
+      "current_value": 123,
+      "current_price": 370,
+      "premium_discount": -66.6,
+      "historical_trend": "Lynch grew from $55 to $123 but price grew from $35 to $370 (10x!)",
+      "recommendation": "⚠️ 200% premium - very expensive"
+    },
+    "dcf": {
+      "current_value": 66,
+      "current_price": 370,
+      "premium_discount": -82.2,
+      "historical_trend": "DCF grew from $26 to $66 while price grew 10x",
+      "recommendation": "❌ 460% premium - extremely expensive by DCF"
+    },
+    "gf_value": {
+      "current_value": 239.69,
+      "current_price": 370,
+      "premium_discount": -35.2,
+      "recommendation": "⚠️ 54% premium even to GF Value"
+    }
+  },
+
+  "business_analysis": {
+    "vmware": "Acquired for $69B - enterprise software integration",
+    "ai_networking": "Custom AI chips for hyperscalers (Google, Meta)",
+    "semiconductor": "Infrastructure chips, wireless, storage",
+    "moat": "Design expertise, customer relationships, M&A machine"
+  },
+
+  "fundamentals": {
+    "gf_score": 96,
+    "dividend_yield": "1.3%",
+    "gross_margin": "75%+",
+    "revenue_growth": "35%+ (with VMware)"
+  },
+
+  "risk_factors": {
+    "valuation": "Premium to ALL metrics - priced for perfection",
+    "vmware_integration": "Execution risk on $69B acquisition",
+    "ai_hype": "If AI spending slows, multiple compresses",
+    "competition": "Marvell, Nvidia in AI networking"
+  },
+
+  "bull_case": {
+    "thesis": "AI infrastructure spend continues. VMware synergies exceed expectations.",
+    "target": "$450-500",
+    "upside": "22-35%"
+  },
+
+  "bear_case": {
+    "thesis": "AI hype fades. VMware integration stumbles. Multiple compresses.",
+    "target": "$250-300",
+    "downside": "19-32%"
+  },
+
+  "recommendation_matrix": {
+    "value_investor": {
+      "action": "AVOID",
+      "reason": "460% premium to DCF. Not a value play."
+    },
+    "growth_investor": {
+      "action": "HOLD",
+      "reason": "Quality company but priced for perfection."
+    },
+    "momentum_investor": {
+      "action": "CAUTION",
+      "reason": "AI momentum could reverse."
+    }
+  },
+
+  "overall_rating": "⚠️ HOLD/AVOID",
+  "confidence": "HIGH",
+  "key_differentiator": "Great company but AI hype has made it extremely expensive",
+  "time_horizon": "Wait for pullback"
+}

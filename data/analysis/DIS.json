@@ -1,0 +1,59 @@
+{
+  "symbol": "DIS",
+  "company": "Walt Disney",
+  "sector": "Communication Services - Entertainment",
+  "executive_summary": {
+    "verdict": "DIS נסחרת BELOW Peter Lynch! הזדמנות?",
+    "best_method": "Peter Lynch Fair Value",
+    "worst_method": "Graham Number",
+    "key_insight": "2025: Peter Lynch $141 vs Price $114 = 19% BELOW fair value!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 45.10,
+      "current_price": 114.50,
+      "premium_discount": -60.6,
+      "correlation": {"1Y": 0.75, "3Y": 0.72, "5Y": 0.70},
+      "analysis": {
+        "1Y": {"text": "premium 2.5x", "recommendation": "⚠️"},
+        "5Y": {"text": "content investments hurt book value", "recommendation": "⚠️"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 140.68,
+      "current_price": 114.50,
+      "premium_discount": 22.9,
+      "correlation": {"1Y": 0.85, "3Y": 0.82, "5Y": 0.80},
+      "analysis": {
+        "1Y": {"text": "BELOW FV! 🔥", "recommendation": "✅ הזדמנות"},
+        "5Y": {"text": "tracking טוב", "recommendation": "✅"}
+      }
+    },
+    "dcf": {
+      "current_value": 76.88,
+      "current_price": 114.50,
+      "premium_discount": -32.9,
+      "correlation": {"1Y": 0.80, "3Y": 0.78, "5Y": 0.75},
+      "analysis": {
+        "1Y": {"text": "premium 49%", "recommendation": "⚠️"},
+        "5Y": {"text": "FCF improving", "recommendation": "⚠️"}
+      }
+    }
+  },
+  "current_opportunity": {
+    "peter_lynch_fv": 141,
+    "price": 114,
+    "upside": "19%",
+    "status": "BELOW FV! 🔥"
+  },
+  "risks": [
+    "Streaming wars - competition from Netflix, Amazon, Apple",
+    "Parks uncertainty - economic sensitivity",
+    "ESPN spin-off decisions"
+  ],
+  "recommendation_matrix": {
+    "value_investor": {"action": "CONSIDER", "reason": "BELOW Peter Lynch!"},
+    "growth_investor": {"action": "CAUTION", "reason": "streaming wars, parks uncertainty"},
+    "dividend_investor": {"action": "WATCH", "reason": "dividend was cut during COVID, not fully restored"}
+  }
+}

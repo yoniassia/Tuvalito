@@ -1,0 +1,58 @@
+{
+  "symbol": "AMD",
+  "company": "Advanced Micro Devices",
+  "sector": "Technology - Semiconductors",
+  "executive_summary": {
+    "verdict": "AMD הייתה BELOW Fair Value ב-2022! עכשיו premium גבוה",
+    "best_method": "Peter Lynch (but declining!)",
+    "worst_method": "Graham Number",
+    "key_insight": "ב-2022 Peter Lynch היה $88 והמחיר $65 - הזדמנות נדירה! עכשיו Lynch יורד (צמיחה מאטה) אבל המחיר עלה - premium 5.7x."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 34.91,
+      "current_price": 214.16,
+      "premium_discount": -83.7,
+      "correlation": {"1Y": 0.70, "5Y": 0.65, "10Y": 0.55},
+      "analysis": {
+        "1Y": {"text": "פער פי 6.1", "recommendation": "❌"},
+        "5Y": {"text": "היה 0 עד 2019", "recommendation": "❌"},
+        "10Y": {"text": "לא רלוונטי", "recommendation": "❌"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 37.57,
+      "current_price": 214.16,
+      "premium_discount": -82.5,
+      "correlation": {"1Y": 0.65, "5Y": 0.75, "10Y": 0.60},
+      "analysis": {
+        "1Y": {"text": "⚠️ Lynch יורד! צמיחה מאטה", "recommendation": "⚠️ סימן אזהרה"},
+        "5Y": {"text": "2022: BELOW FV! הזדמנות נדירה", "recommendation": "✅ תפס תחתית"},
+        "10Y": {"text": "היה 0 עד 2022", "recommendation": "⚠️"}
+      }
+    },
+    "dcf": {
+      "current_value": 56.23,
+      "current_price": 214.16,
+      "premium_discount": -73.7,
+      "correlation": {"1Y": 0.72, "5Y": 0.68, "10Y": 0.55},
+      "analysis": {
+        "1Y": {"text": "פער פי 3.8", "recommendation": "⚠️"},
+        "5Y": {"text": "היה שלילי עד 2019", "recommendation": "⚠️"},
+        "10Y": {"text": "FCF שלילי שנים", "recommendation": "❌"}
+      }
+    }
+  },
+  "historical_timeline": {
+    "2016-2021": {"peter_lynch": 0, "price": "11-144", "status": "No earnings"},
+    "2022": {"peter_lynch": 88, "price": 65, "status": "BELOW FV! 🔥"},
+    "2023": {"peter_lynch": 66, "price": 147, "status": "2.2x premium"},
+    "2025": {"peter_lynch": 38, "price": 214, "status": "5.7x premium ⚠️"}
+  },
+  "warning": "Peter Lynch יורד ($88→$38) בעוד המחיר עולה ($65→$214). זה סימן שהצמיחה מאטה אבל השוק מתעלם!",
+  "recommendation_matrix": {
+    "value_investor": {"action": "AVOID", "reason": "premium 5.7x גבוה מדי"},
+    "growth_investor": {"action": "CAUTION", "reason": "Lynch יורד = צמיחה מאטה!"},
+    "momentum_investor": {"action": "TRADE", "reason": "AI hype עדיין חזק"}
+  }
+}

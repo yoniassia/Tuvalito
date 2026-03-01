@@ -1,0 +1,71 @@
+{
+  "symbol": "BMY",
+  "company": "Bristol-Myers Squibb Company",
+  "sector": "Healthcare - Pharmaceuticals",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "BMY is below DCF BUT Lynch collapsed from $169 to $0. Patent cliff is the concern.",
+    "best_method": "DCF (cash flows still positive)",
+    "worst_method": "Lynch (collapsed - no growth)",
+    "key_insight": "DCF $65 vs Price $47 = 38% upside. BUT Eliquis and Opdivo facing patent cliffs."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "recommendation": "Graham not applicable - goodwill from acquisitions"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "current_price": 47.00,
+      "periods": {
+        "historical": {"analysis": "Lynch crashed from $169 (2020) to $0 (2025)"},
+        "reason": {"analysis": "Patent cliff eliminated growth expectations"}
+      },
+      "recommendation": "Lynch collapse = market sees no growth ahead"
+    },
+    "dcf": {
+      "current_value": 65.00,
+      "current_price": 47.00,
+      "premium_discount": 38,
+      "periods": {
+        "5Y": {"analysis": "DCF declined from $85 to $65 as patent cliff approached"},
+        "Current": {"analysis": "Still positive but declining trend"}
+      },
+      "recommendation": "38% below DCF - but DCF itself is declining"
+    }
+  },
+
+  "patent_cliff_analysis": {
+    "eliquis": "Blood thinner facing generic competition soon",
+    "opdivo": "Cancer drug - key patent expiring",
+    "pipeline": "Acquisitions (Celgene) added pipeline but execution uncertain",
+    "impact": "Revenue could drop 30%+ over 5 years"
+  },
+
+  "risk_factors": {
+    "patent_cliff": "Major drugs facing generic competition",
+    "pipeline_risk": "Need new drugs to replace lost revenue",
+    "competition": "Pharma is highly competitive",
+    "pricing_pressure": "Political pressure on drug prices"
+  },
+
+  "bull_case": {
+    "thesis": "Pipeline delivers. Acquisitions pay off. 5%+ dividend yield.",
+    "target": "$55-70",
+    "upside": "17-49%"
+  },
+
+  "bear_case": {
+    "thesis": "Patent cliff devastates revenue. Pipeline fails. Dividend cut.",
+    "target": "$30-40",
+    "downside": "15-36%"
+  },
+
+  "overall_rating": "⚠️ SPECULATIVE",
+  "confidence": "LOW",
+  "key_warning": "Lynch collapse from $169 to $0 is a major red flag. Patent cliff is real.",
+  "time_horizon": "High risk - only for pharma specialists"
+}

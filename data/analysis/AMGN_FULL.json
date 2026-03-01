@@ -1,0 +1,96 @@
+{
+  "symbol": "AMGN",
+  "company": "Amgen Inc.",
+  "sector": "Healthcare - Biotechnology",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "AMGN נסחרת בפרמיום ל-Lynch ו-DCF, אבל קרוב ל-GF Value. לא זולה.",
+    "best_method": "GF Value (4% discount)",
+    "worst_method": "Graham (0 - negative book from acquisitions)",
+    "key_insight": "Price $327 vs Lynch $186 vs DCF $220 vs GF Value $341. Near GF Value but expensive by other metrics."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 0,
+      "reason": "Negative book value from Horizon Therapeutics acquisition ($28B)",
+      "recommendation": "❌ Graham not applicable"
+    },
+    "peter_lynch": {
+      "current_value": 185.51,
+      "current_price": 327.31,
+      "premium_discount": -43.3,
+      "historical_trend": "Lynch volatile: $224 (2016) → $0 (2022) → $186 (2025)",
+      "recommendation": "⚠️ 76% above Lynch - overvalued by this metric"
+    },
+    "dcf": {
+      "current_value": 219.78,
+      "current_price": 327.31,
+      "premium_discount": -32.8,
+      "historical_trend": "DCF stable $173-$224 range over 10 years",
+      "recommendation": "⚠️ 49% above DCF - premium pricing"
+    },
+    "gf_value": {
+      "current_value": 341.36,
+      "current_price": 327.31,
+      "premium_discount": 4.3,
+      "recommendation": "✅ 4% below GF Value - near fair value"
+    }
+  },
+
+  "obesity_catalyst": {
+    "drug": "MariTide (AMG 133)",
+    "mechanism": "GLP-1 + GIP dual agonist (similar to Lilly's tirzepatide)",
+    "status": "Phase 2 results strong - monthly dosing advantage",
+    "potential": "Could compete with Ozempic/Wegovy/Mounjaro",
+    "risk": "Late to market, Novo/Lilly have head start"
+  },
+
+  "fundamentals": {
+    "gf_score": 91,
+    "dividend_yield": "2.8%",
+    "key_drugs": ["Enbrel", "Prolia", "Otezla", "Repatha"],
+    "biosimilar_risk": "Enbrel facing biosimilar competition"
+  },
+
+  "risk_factors": {
+    "valuation": "Premium to DCF and Lynch",
+    "biosimilars": "Key drugs facing generic competition",
+    "obesity_execution": "MariTide needs to prove itself",
+    "debt": "High debt from Horizon acquisition"
+  },
+
+  "bull_case": {
+    "thesis": "MariTide succeeds in obesity market. Pipeline delivers.",
+    "target": "$380-420",
+    "upside": "16-28%"
+  },
+
+  "bear_case": {
+    "thesis": "MariTide fails. Biosimilars erode revenue.",
+    "target": "$250-280",
+    "downside": "14-24%"
+  },
+
+  "recommendation_matrix": {
+    "value_investor": {
+      "action": "WAIT",
+      "reason": "Premium to DCF/Lynch. Not cheap enough."
+    },
+    "growth_investor": {
+      "action": "HOLD",
+      "reason": "Obesity catalyst interesting but priced in."
+    },
+    "dividend_investor": {
+      "action": "HOLD",
+      "reason": "2.8% yield decent. Stable payer."
+    }
+  },
+
+  "overall_rating": "✅ HOLD",
+  "confidence": "MEDIUM",
+  "key_differentiator": "Near GF Value but premium by other metrics. Obesity catalyst is the wildcard.",
+  "time_horizon": "12-24 months"
+}

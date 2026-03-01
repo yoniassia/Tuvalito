@@ -1,0 +1,42 @@
+{
+  "symbol": "CRWD",
+  "company": "CrowdStrike Holdings",
+  "sector": "Technology - Cybersecurity",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "CRWD = Cybersecurity leader אבל 9x DCF premium. יקר מאוד.",
+    "best_method": "DCF (9x premium)",
+    "key_insight": "Price $398 vs DCF $44. Premium is for 30%+ growth but very risky."
+  },
+
+  "valuation_methods": {
+    "graham": {"current_value": 28, "premium_discount": -93.0, "recommendation": "❌ 14x premium"},
+    "peter_lynch": {"current_value": 0, "reason": "Still investing heavily, Lynch doesn't work"},
+    "dcf": {"current_value": 44, "premium_discount": -88.9, "recommendation": "❌ 9x premium - extreme"}
+  },
+
+  "moat_analysis": {
+    "platform": "Falcon platform - endpoint, cloud, identity",
+    "ai_native": "Built on AI from day one",
+    "network_effect": "More customers = better threat intelligence",
+    "growth": "30%+ revenue growth, 120%+ NRR"
+  },
+
+  "incident_recovery": {
+    "july_2024": "Global outage from faulty update",
+    "impact": "Stock crashed 40%",
+    "recovery": "Customers stayed - testament to switching costs"
+  },
+
+  "risk_factors": {
+    "valuation": "9x DCF premium - priced for perfection",
+    "competition": "Palo Alto, Microsoft, SentinelOne",
+    "incident_risk": "Another outage could be fatal"
+  },
+
+  "overall_rating": "⚠️ AVOID for value",
+  "confidence": "HIGH",
+  "key_differentiator": "Best-in-class cybersecurity but 9x premium is too much"
+}

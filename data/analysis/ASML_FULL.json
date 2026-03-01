@@ -1,0 +1,97 @@
+{
+  "symbol": "ASML",
+  "company": "ASML Holding N.V.",
+  "sector": "Technology - Semiconductor Equipment",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "ASML = Monopoly in EUV lithography. קרוב ל-GF Value אבל premium ענק ל-DCF/Lynch.",
+    "best_method": "GF Value (2% premium - near fair)",
+    "worst_method": "Graham (6x premium)",
+    "key_insight": "Price $1070 vs GF Value $1052 = Fair! But DCF $385 = 178% premium. Monopoly commands premium."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 169,
+      "current_price": 1070,
+      "premium_discount": -84.2,
+      "recommendation": "❌ 6x premium - Graham doesn't work for asset-light tech"
+    },
+    "peter_lynch": {
+      "current_value": 640,
+      "current_price": 1070,
+      "premium_discount": -40.2,
+      "historical_trend": "Lynch grew from $223 to $640 (3x) as earnings exploded",
+      "recommendation": "⚠️ 67% premium to Lynch"
+    },
+    "dcf": {
+      "current_value": 385,
+      "current_price": 1070,
+      "premium_discount": -64.0,
+      "historical_trend": "DCF grew from $125 to $385 (3x) - strong FCF growth",
+      "recommendation": "⚠️ 178% premium to DCF - very expensive"
+    },
+    "gf_value": {
+      "current_value": 1052.31,
+      "current_price": 1070,
+      "premium_discount": -1.7,
+      "recommendation": "✅ 2% premium - essentially fair value by GF"
+    }
+  },
+
+  "monopoly_moat": {
+    "euv_lithography": "ASML is the ONLY company that can make EUV machines",
+    "customers": "TSMC, Samsung, Intel ALL depend on ASML",
+    "barriers": "20+ years of R&D, Carl Zeiss optics partnership",
+    "pricing_power": "EUV machines cost $150-350M each. Customers have no alternative.",
+    "backlog": "Orders booked years in advance"
+  },
+
+  "fundamentals": {
+    "gf_score": 96,
+    "revenue_growth": "20%+ CAGR",
+    "gross_margin": "50%+",
+    "roic": "30%+"
+  },
+
+  "risk_factors": {
+    "china_restrictions": "US export controls limit China sales",
+    "concentration": "TSMC is ~50% of revenue",
+    "cyclicality": "Semiconductor cycles affect orders",
+    "valuation": "Premium to traditional metrics"
+  },
+
+  "bull_case": {
+    "thesis": "AI boom drives insatiable chip demand. ASML is the toll booth.",
+    "target": "$1200-1400",
+    "upside": "12-31%"
+  },
+
+  "bear_case": {
+    "thesis": "Semiconductor cycle downturn. China restrictions hurt.",
+    "target": "$800-900",
+    "downside": "16-25%"
+  },
+
+  "recommendation_matrix": {
+    "value_investor": {
+      "action": "AVOID",
+      "reason": "178% premium to DCF. Too expensive."
+    },
+    "growth_investor": {
+      "action": "HOLD",
+      "reason": "Monopoly moat but priced for perfection."
+    },
+    "quality_investor": {
+      "action": "HOLD",
+      "reason": "Best-in-class company but near fair value."
+    }
+  },
+
+  "overall_rating": "✅ HOLD",
+  "confidence": "HIGH",
+  "key_differentiator": "Monopoly commands premium. Near GF Value = fair. Don't expect huge upside.",
+  "time_horizon": "Long-term hold"
+}

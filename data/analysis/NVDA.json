@@ -1,0 +1,148 @@
+{
+  "symbol": "NVDA",
+  "company": "NVIDIA Corporation",
+  "sector": "Technology",
+  "lastUpdated": "2026-02-27",
+  "summary": "NVIDIA is a high-growth semiconductor company leading the AI revolution. Traditional value metrics like Graham Number significantly undervalue the stock due to its exceptional growth trajectory and market dominance in AI chips.",
+  
+  "valuationMethods": {
+    "graham": {
+      "currentValue": 14.20,
+      "currentPrice": 120.07,
+      "margin": -88.2,
+      "verdict": "Not Applicable",
+      "correlation": {
+        "1Y": 0.15,
+        "3Y": 0.12,
+        "5Y": 0.18,
+        "10Y": 0.22,
+        "max": 0.25
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Very low correlation (0.15). The Graham Number consistently undervalues NVDA by 85-90%. This is expected for high-growth tech stocks.",
+          "reason": "Graham Number uses Book Value and EPS, which don't capture NVIDIA's intangible value - its AI moat, ecosystem, and future earnings potential. The formula was designed by Benjamin Graham for stable, dividend-paying companies in the 1930s-1940s.",
+          "recommendation": "DO NOT use Graham Number for NVDA. It will always show 'significantly overvalued' which is misleading for a growth stock."
+        },
+        "5Y": {
+          "text": "Consistently low correlation across 5 years. NVDA has traded 5-10x above Graham Number throughout this period.",
+          "reason": "NVIDIA's transformation from a gaming GPU company to the dominant AI chip maker created enormous shareholder value that Book Value accounting simply cannot capture. R&D investments, CUDA ecosystem, and market position are not reflected in traditional metrics.",
+          "recommendation": "Graham analysis is inappropriate for NVDA's business model. Consider DCF or Peter Lynch for growth-adjusted valuations."
+        },
+        "10Y": {
+          "text": "Graham Number has consistently failed to predict NVDA's price trajectory over 10 years.",
+          "reason": "The entire semiconductor/AI industry underwent a paradigm shift. Graham's conservative valuation framework cannot account for exponential technology adoption curves.",
+          "recommendation": "Historical Graham analysis confirms this metric is structurally unsuited for high-growth tech stocks."
+        }
+      },
+      "whenToUse": "Graham Number works best for: (1) Mature, stable companies (2) Financial sector (banks, insurance) (3) Companies with significant tangible assets (4) Dividend aristocrats. NOT suitable for: tech growth stocks, asset-light companies, or rapidly scaling businesses."
+    },
+    
+    "peterLynch": {
+      "currentValue": 74.80,
+      "currentPrice": 120.07,
+      "margin": -37.7,
+      "verdict": "Modestly Overvalued",
+      "correlation": {
+        "1Y": 0.45,
+        "3Y": 0.52,
+        "5Y": 0.48,
+        "10Y": 0.55,
+        "max": 0.51
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Moderate correlation (0.45). Peter Lynch Fair Value tracks price better than Graham but still undervalues due to conservative growth assumptions.",
+          "reason": "Peter Lynch's PEG-based approach accounts for growth, but uses historical growth rates. NVDA's AI-driven growth acceleration exceeds historical patterns.",
+          "recommendation": "Useful as a sanity check, but adjust growth assumptions for AI tailwinds."
+        },
+        "5Y": {
+          "text": "Correlation improved slightly (0.48-0.52). The method better captures growth periods but lags during acceleration phases.",
+          "reason": "During 2020-2023, AI demand surged unexpectedly. Lynch's formula using trailing growth couldn't anticipate this shift.",
+          "recommendation": "Apply a 'technology premium' of 20-30% when using Lynch for dominant platform companies."
+        },
+        "10Y": {
+          "text": "Best correlation among value methods (0.55), but still misses major price moves.",
+          "reason": "Over long periods, growth normalization helps. But NVDA's multiple expansion during AI boom shows market pricing in decades of future growth.",
+          "recommendation": "Use as one input among many. Combine with forward-looking DCF for more accurate picture."
+        }
+      },
+      "whenToUse": "Peter Lynch works well for: (1) GARP (Growth at Reasonable Price) stocks (2) Companies with predictable earnings growth (3) Consumer-facing businesses Lynch could understand. Requires adjustment for: tech platforms, B2B businesses with long sales cycles."
+    },
+    
+    "dcf": {
+      "currentValue": 13.11,
+      "currentPrice": 120.07,
+      "margin": -89.1,
+      "verdict": "Appears Overvalued (but model assumptions matter)",
+      "correlation": {
+        "1Y": 0.25,
+        "3Y": 0.28,
+        "5Y": 0.32,
+        "10Y": 0.38,
+        "max": 0.35
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Low correlation (0.25). Standard DCF dramatically undervalues NVDA. The market is pricing in higher growth and longer competitive advantage than typical models assume.",
+          "reason": "Standard DCF uses 5-10 year projections and terminal growth of 2-3%. NVDA's AI moat suggests decades of above-market growth.",
+          "recommendation": "Adjust DCF assumptions: (1) Extend high-growth period to 15+ years (2) Use 15-20% growth rates (3) Apply premium for platform dominance."
+        },
+        "5Y": {
+          "text": "Slight improvement in correlation (0.32), but still weak. DCF missed the AI transformation.",
+          "reason": "No DCF model in 2021 could have predicted ChatGPT and the AI explosion. Paradigm shifts break all historical models.",
+          "recommendation": "For transformational tech companies, use scenario analysis with bull/base/bear cases. Single-point DCF is insufficient."
+        },
+        "10Y": {
+          "text": "Modest correlation improvement (0.38). Over long horizons, earnings eventually catch up to price.",
+          "reason": "NVDA's actual FCF growth exceeded model assumptions by 5-10x. This is rare and explains the sustained 'overvaluation'.",
+          "recommendation": "When actual results consistently beat DCF projections, the model is wrong, not the market."
+        }
+      },
+      "whenToUse": "DCF excels for: (1) Mature companies with predictable cash flows (2) Infrastructure businesses (utilities, REITs) (3) Companies past hypergrowth phase. Requires significant adjustment for: early-stage growth, platform businesses, companies with network effects."
+    },
+    
+    "gfValue": {
+      "currentValue": 275.35,
+      "currentPrice": 196.12,
+      "margin": 28.33,
+      "verdict": "Modestly Undervalued",
+      "correlation": {
+        "1Y": 0.72,
+        "3Y": 0.68,
+        "5Y": 0.65,
+        "10Y": 0.61,
+        "max": 0.58
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Strong correlation (0.72). GF Value incorporates historical trading patterns and adjusts for company-specific factors.",
+          "reason": "GuruFocus methodology learns from NVDA's historical premiums and adjusts fair value accordingly. It doesn't force the stock into a value framework it doesn't fit.",
+          "recommendation": "GF Value is the most reliable metric for NVDA. Use as primary valuation reference."
+        },
+        "5Y": {
+          "text": "Good correlation maintained (0.65-0.68). GF Value adapted to NVDA's multiple expansion during AI boom.",
+          "reason": "The adaptive nature of GF Value means it updates based on what the market consistently pays for NVDA's growth.",
+          "recommendation": "Trust GF Value more than traditional metrics for growth stocks with proven track records."
+        },
+        "10Y": {
+          "text": "Correlation gradually decreases (0.61) as you go further back - before GF methodology was refined.",
+          "reason": "Earlier GF Value calculations used older assumptions. The methodology has improved over time.",
+          "recommendation": "Focus on recent 5-year correlation for decision making."
+        }
+      },
+      "whenToUse": "GF Value is versatile and works for: (1) Both value and growth stocks (2) Companies with trading history (3) Any sector. Less reliable for: IPOs, turnarounds, or companies undergoing major business model changes."
+    }
+  },
+  
+  "overallAssessment": {
+    "bestMethod": "GF Value",
+    "reasoning": "For a high-growth tech leader like NVDA, traditional value metrics (Graham, DCF) are structurally unsuited. GF Value's adaptive approach and Peter Lynch's growth-adjustment provide more useful signals.",
+    "warnings": [
+      "NVDA trades at significant premiums to all traditional metrics - this is normal for dominant growth companies",
+      "AI hype cycles can cause temporary overvaluation - watch for deceleration signals",
+      "Competition from AMD, custom AI chips (Google TPU, Amazon Trainium) could compress margins"
+    ],
+    "investorGuidance": "Growth investors: Use GF Value and forward PE. Value investors: NVDA may never appear 'cheap' by your metrics - and that's okay. It's not a value stock."
+  }
+}

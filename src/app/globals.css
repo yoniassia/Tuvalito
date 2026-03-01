@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* eToro Dark Theme Colors */
+  --color-bg-primary: #0d1421;
+  --color-bg-secondary: #1a2332;
+  --color-bg-tertiary: #243447;
+  --color-bg-search: #1e2a3a;
+  --color-bg-card: #1a2332;
+  --color-bg-card-hover: #243447;
+  
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #8b9eb3;
+  --color-text-muted: #5a6b7d;
+  
+  --color-accent-green: #2ecc71;
+  --color-accent-green-dark: #27ae60;
+  --color-accent-red: #e74c3c;
+  --color-accent-red-dark: #c0392b;
+  --color-accent-blue: #00d9ff;
+  --color-accent-orange: #ff6b35;
+  
+  --color-border: #2a3a4d;
+  --color-border-light: #1e2a3a;
+
+  --radius-lg: 0.75rem;
+  --radius-md: 0.5rem;
+  --radius-sm: 0.25rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-full: 9999px;
+}
+
+:root {
+  --background: var(--color-bg-primary);
+  --foreground: var(--color-text-primary);
+  
+  --card: var(--color-bg-card);
+  --card-foreground: var(--color-text-primary);
+  
+  --popover: var(--color-bg-secondary);
+  --popover-foreground: var(--color-text-primary);
+  
+  --primary: var(--color-accent-green);
+  --primary-foreground: #000000;
+  
+  --secondary: var(--color-bg-tertiary);
+  --secondary-foreground: var(--color-text-primary);
+  
+  --muted: var(--color-bg-tertiary);
+  --muted-foreground: var(--color-text-muted);
+  
+  --accent: var(--color-accent-blue);
+  --accent-foreground: #000000;
+  
+  --destructive: var(--color-accent-red);
+  --destructive-foreground: var(--color-text-primary);
+  
+  --border: var(--color-border);
+  --input: var(--color-bg-search);
+  --ring: var(--color-accent-blue);
+  
+  --radius: 0.75rem;
+}
+
+* {
+  border-color: var(--border);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', 'Heebo', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* RTL Support */
+html[dir="rtl"] {
+  font-family: 'Heebo', 'Inter', sans-serif;
+}
+
+/* Number/Ticker always LTR */
+.ltr, .ticker, .price, .number {
+  direction: ltr;
+}
+
+/* Stock Change Colors */
+.change-positive {
+  color: var(--color-accent-green);
+}
+
+.change-negative {
+  color: var(--color-accent-red);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-muted);
+}
+
+/* Hide scrollbar but keep functionality */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

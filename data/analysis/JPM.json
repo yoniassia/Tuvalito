@@ -1,0 +1,57 @@
+{
+  "symbol": "JPM",
+  "company": "JPMorgan Chase",
+  "sector": "Financial Services - Banks",
+  "executive_summary": {
+    "verdict": "JPM - דוגמה למניית ערך שעבדה! Graham ו-DCF תפסו את ההזדמנות",
+    "best_method": "Graham Number + DCF",
+    "worst_method": "N/A - all work for banks!",
+    "key_insight": "2023: BELOW GRAHAM ($175) ו-BELOW DCF ($192) כשהמחיר היה $170. עלתה 89% מאז!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 213.91,
+      "current_price": 322.22,
+      "premium_discount": -33.6,
+      "correlation": {"1Y": 0.85, "3Y": 0.88, "5Y": 0.85},
+      "analysis": {
+        "1Y": {"text": "premium 50%", "recommendation": "⚠️ יקרה"},
+        "3Y": {"text": "2023: BELOW GRAHAM!", "recommendation": "✅ עבד מושלם"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 201.67,
+      "current_price": 322.22,
+      "premium_discount": -37.4,
+      "correlation": {"1Y": 0.82, "3Y": 0.80, "5Y": 0.78},
+      "analysis": {
+        "1Y": {"text": "premium 60%", "recommendation": "⚠️"},
+        "3Y": {"text": "tracking טוב", "recommendation": "✅"}
+      }
+    },
+    "dcf": {
+      "current_value": 115.08,
+      "current_price": 322.22,
+      "premium_discount": -64.3,
+      "correlation": {"1Y": 0.78, "3Y": 0.82, "5Y": 0.80},
+      "analysis": {
+        "1Y": {"text": "DCF ירד (תנודתי)", "recommendation": "⚠️"},
+        "3Y": {"text": "2023: BELOW DCF!", "recommendation": "✅ תפס הזדמנות"}
+      }
+    }
+  },
+  "historical_opportunities": {
+    "2023": {
+      "graham": 175,
+      "dcf": 192,
+      "price": 170,
+      "status": "BELOW BOTH! 🔥",
+      "return_since": "+89%"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "WAIT", "reason": "עכשיו 50%+ premium. חכה לתיקון"},
+    "dividend_investor": {"action": "HOLD", "reason": "Dividend yield ~2%, גדל בהתמדה"}
+  },
+  "note": "Banks are classic Graham stocks - traditional metrics work well!"
+}

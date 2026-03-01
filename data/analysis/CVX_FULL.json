@@ -1,0 +1,69 @@
+{
+  "symbol": "CVX",
+  "company": "Chevron Corporation",
+  "sector": "Energy - Oil & Gas",
+  "analysis_date": "2026-02-27",
+  "analyst": "AI Analysis",
+  
+  "executive_summary": {
+    "verdict": "CVX is trading near Lynch and below DCF. Energy play with strong dividend.",
+    "best_method": "DCF (oil & gas cash flows)",
+    "worst_method": "Graham (capital-intensive)",
+    "key_insight": "DCF $195 vs Price $160 = 22% upside. 4%+ dividend yield."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 110.00,
+      "current_price": 160.00,
+      "premium_discount": -31,
+      "recommendation": "Above Graham - but Graham doesn't work well for oil & gas"
+    },
+    "peter_lynch": {
+      "current_value": 165.00,
+      "current_price": 160.00,
+      "premium_discount": 3,
+      "recommendation": "Near Lynch fair value - fairly priced"
+    },
+    "dcf": {
+      "current_value": 195.00,
+      "current_price": 160.00,
+      "premium_discount": 22,
+      "periods": {
+        "5Y": {"analysis": "DCF grew from $120 to $195 as oil prices rose"},
+        "Note": {"analysis": "DCF assumes moderate oil prices, not peak"}
+      },
+      "recommendation": "22% below DCF - some upside available"
+    }
+  },
+
+  "energy_thesis": {
+    "oil_demand": "Still growing globally despite EV transition",
+    "supply_discipline": "OPEC+ keeping supply tight",
+    "capex": "Chevron disciplined on capital spending",
+    "dividend": "4%+ yield with 37-year dividend growth streak"
+  },
+
+  "risk_factors": {
+    "oil_prices": "Volatile - can swing profits dramatically",
+    "ev_transition": "Long-term decline in oil demand",
+    "esg": "Institutional investors avoiding fossil fuels",
+    "geopolitics": "Middle East tensions affect supply/prices"
+  },
+
+  "bull_case": {
+    "thesis": "Oil stays elevated. Dividend grows. Supply discipline continues.",
+    "target": "$180-200",
+    "upside": "12-25%"
+  },
+
+  "bear_case": {
+    "thesis": "Oil crashes. EV transition accelerates. ESG pressure intensifies.",
+    "target": "$120-140",
+    "downside": "12-25%"
+  },
+
+  "overall_rating": "🔥 BUY",
+  "confidence": "MEDIUM",
+  "time_horizon": "12-24 months (oil price dependent)"
+}

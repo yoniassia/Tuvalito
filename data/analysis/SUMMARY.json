@@ -1,0 +1,56 @@
+{
+  "lastUpdated": "2026-02-27",
+  "analyzedStocks": [
+    {
+      "symbol": "NVDA",
+      "bestMethod": "Peter Lynch",
+      "currentPremium": 38,
+      "status": "⚠️ High Premium"
+    },
+    {
+      "symbol": "AAPL",
+      "bestMethod": "DCF/GF Value",
+      "currentPremium": 63,
+      "status": "⚠️ High Premium"
+    },
+    {
+      "symbol": "MSFT",
+      "bestMethod": "Peter Lynch",
+      "currentPremium": 52,
+      "status": "⚠️ High Premium"
+    },
+    {
+      "symbol": "GOOGL",
+      "bestMethod": "Peter Lynch",
+      "currentPremium": 42,
+      "status": "⚠️ Moderate Premium"
+    },
+    {
+      "symbol": "META",
+      "bestMethod": "Peter Lynch",
+      "currentPremium": 19,
+      "status": "✅ Near Fair Value"
+    },
+    {
+      "symbol": "TSLA",
+      "bestMethod": "NONE",
+      "currentPremium": 94,
+      "status": "🎰 Speculation"
+    },
+    {
+      "symbol": "AMZN",
+      "bestMethod": "Peter Lynch",
+      "currentPremium": 35,
+      "status": "✅ Near Fair Value"
+    }
+  ],
+  "closestToFairValue": ["META", "AMZN"],
+  "mostOvervalued": ["TSLA"],
+  "generalInsights": [
+    "Peter Lynch Fair Value הכי טוב לרוב מניות הטק",
+    "Graham Number לא מתאים למניות growth",
+    "GF Value מותאם אבל לא זמין היסטורית",
+    "META ו-AMZN הכי קרובות לשווי הוגן",
+    "TSLA שוברת את כל המודלים - speculation only"
+  ]
+}

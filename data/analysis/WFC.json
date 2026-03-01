@@ -1,0 +1,43 @@
+{
+  "symbol": "WFC",
+  "company": "Wells Fargo",
+  "sector": "Financial Services - Banks",
+  "executive_summary": {
+    "verdict": "WFC - הייתה BELOW DCF ב-2024!",
+    "best_method": "Graham + DCF",
+    "worst_method": "Peter Lynch",
+    "key_insight": "2024: Graham $68, DCF $83, Price $70 = BELOW DCF!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 79.72,
+      "current_price": 93.20,
+      "premium_discount": -14.5,
+      "correlation": {"1Y": 0.85, "3Y": 0.82, "5Y": 0.80},
+      "analysis": {
+        "1Y": {"text": "17% premium - still reasonable", "recommendation": "✅"},
+        "3Y": {"text": "tracking טוב", "recommendation": "✅"}
+      }
+    },
+    "dcf": {
+      "current_value": 0,
+      "current_price": 93.20,
+      "premium_discount": -100,
+      "note": "Historical DCF showed $83 in 2024"
+    }
+  },
+  "historical_opportunities": {
+    "2024": {
+      "graham": 68,
+      "dcf": 83,
+      "price": 70,
+      "status": "BELOW DCF!",
+      "return_since": "+33%"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "HOLD", "reason": "17% premium - still reasonable"},
+    "dividend_investor": {"action": "HOLD", "reason": "yield ~2.5%"}
+  },
+  "note": "Asset cap still in place - upside when removed"
+}

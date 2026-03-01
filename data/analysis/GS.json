@@ -1,0 +1,49 @@
+{
+  "symbol": "GS",
+  "company": "Goldman Sachs",
+  "sector": "Financial Services - Investment Banking",
+  "executive_summary": {
+    "verdict": "Goldman - Graham עבד מושלם! 2024 הייתה הזדמנות",
+    "best_method": "Graham Number",
+    "worst_method": "Peter Lynch (0 - banks don't fit PEG model)",
+    "key_insight": "2024: Graham $555 vs Price $573 = רק 3% premium! עלתה 53% מאז."
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 697.30,
+      "current_price": 879,
+      "premium_discount": -20.7,
+      "correlation": {"1Y": 0.88, "3Y": 0.85, "5Y": 0.82},
+      "analysis": {
+        "1Y": {"text": "26% premium - סביר לבנק", "recommendation": "⚠️ fair"},
+        "3Y": {"text": "2024: רק 3% premium!", "recommendation": "✅ עבד מושלם"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "current_price": 879,
+      "premium_discount": -100,
+      "note": "Banks don't fit PEG-based models"
+    },
+    "dcf": {
+      "current_value": 0,
+      "current_price": 879,
+      "premium_discount": -100,
+      "note": "Bank DCF requires specialized modeling"
+    }
+  },
+  "historical_opportunities": {
+    "2024": {
+      "graham": 555,
+      "price": 573,
+      "premium": "3%",
+      "status": "Nearly AT Graham!",
+      "return_since": "+53%"
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "HOLD", "reason": "26% premium עכשיו - סביר לבנק"},
+    "dividend_investor": {"action": "HOLD", "reason": "yield + buybacks"}
+  },
+  "note": "Investment banks are volatile - Graham provides good entry signals"
+}

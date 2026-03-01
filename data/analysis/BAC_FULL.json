@@ -1,0 +1,83 @@
+{
+  "symbol": "BAC",
+  "company": "Bank of America Corporation",
+  "sector": "Financial Services - Banks",
+  "analysis_date": "2026-02-27",
+  "analyst": "Tuvalito (AI)",
+  
+  "executive_summary": {
+    "verdict": "BAC קרוב ל-Graham. בנק סולידי. טוב יותר מ-C.",
+    "best_method": "Graham (10% premium)",
+    "worst_method": "Lynch/DCF (no data)",
+    "key_insight": "Graham $50 vs Price $55 = 10% premium. Reasonable for a quality bank."
+  },
+
+  "valuation_methods": {
+    "graham": {
+      "current_value": 49.75,
+      "current_price": 55.00,
+      "premium_discount": -9.5,
+      "historical_trend": "Graham stable $45-55 range. Price follows.",
+      "recommendation": "✅ 10% premium is reasonable for quality bank"
+    },
+    "peter_lynch": {
+      "current_value": 0,
+      "reason": "Banks don't have meaningful growth rates for Lynch",
+      "recommendation": "❌ Lynch not applicable to banks"
+    },
+    "dcf": {
+      "current_value": 0,
+      "reason": "Bank DCF requires different methodology",
+      "recommendation": "❌ Standard DCF not applicable"
+    }
+  },
+
+  "comparison_to_peers": {
+    "jpm": "Premium to book - best bank, deserves premium",
+    "bac": "Near book value - solid #2",
+    "c": "Near book BUT DCF collapsed - AVOID",
+    "wfc": "Below book - turnaround story"
+  },
+
+  "fundamentals": {
+    "buffett_holding": "Berkshire owns ~13% - seal of approval",
+    "dividend_yield": "2.4%",
+    "roe": "10%+",
+    "nii_growth": "Higher rates help net interest income"
+  },
+
+  "risk_factors": {
+    "rate_sensitivity": "Lower rates would hurt NII",
+    "credit_quality": "Recession could increase loan losses",
+    "competition": "Fintech, neo-banks",
+    "regulation": "Always present for big banks"
+  },
+
+  "bull_case": {
+    "thesis": "Rates stay elevated. Credit quality holds. Buffett knows best.",
+    "target": "$65-70",
+    "upside": "18-27%"
+  },
+
+  "bear_case": {
+    "thesis": "Recession. Credit losses spike. Rates cut.",
+    "target": "$40-45",
+    "downside": "18-27%"
+  },
+
+  "recommendation_matrix": {
+    "value_investor": {
+      "action": "HOLD/BUY on dips",
+      "reason": "Near book value. Quality bank."
+    },
+    "dividend_investor": {
+      "action": "HOLD",
+      "reason": "2.4% yield. Stable payer."
+    }
+  },
+
+  "overall_rating": "✅ HOLD",
+  "confidence": "MEDIUM-HIGH",
+  "key_differentiator": "Buffett-approved bank at fair value. Better than C.",
+  "time_horizon": "Long-term hold"
+}

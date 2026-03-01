@@ -1,0 +1,63 @@
+{
+  "symbol": "MSFT",
+  "company": "Microsoft Corporation",
+  "sector": "Technology - Software",
+  "executive_summary": {
+    "verdict": "MSFT is more 'valued' than NVDA - traditional metrics are more relevant",
+    "best_method": "Peter Lynch (pre-AI) / GF Value (post-AI)",
+    "worst_method": "Graham Number",
+    "key_insight": "לפני 2023, Peter Lynch היה קרוב מאוד למחיר (פער 30-40% בלבד). ה-AI premium הגדיל את הפער ל-100%+"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 91.34,
+      "current_price": 497.41,
+      "premium_discount": -81.6,
+      "correlation": {
+        "1Y": 0.85,
+        "5Y": 0.80,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 5.4 - טוב יותר מNVDA!", "recommendation": "❌ עדיין לא מתאים"},
+        "5Y": {"text": "פער יציב יחסית", "recommendation": "❌"},
+        "10Y": {"text": "היסטורית פער פי 2.5-5", "recommendation": "⚠️ יכול לזהות extremes"}
+      }
+    },
+    "peter_lynch": {
+      "current_value": 239.74,
+      "current_price": 497.41,
+      "premium_discount": -51.8,
+      "correlation": {
+        "1Y": 0.78,
+        "5Y": 0.82,
+        "10Y": 0.79
+      },
+      "analysis": {
+        "1Y": {"text": "פער ~100% אחרי AI boom", "recommendation": "⚠️ premium גבוה"},
+        "5Y": {"text": "ב-2022 פער רק 34%! הכי טוב", "recommendation": "✅ מעולה לתזמון"},
+        "10Y": {"text": "tracking טוב עד 2023", "recommendation": "✅ השיטה הכי טובה ל-MSFT"}
+      }
+    },
+    "dcf": {
+      "current_value": 159.11,
+      "current_price": 497.41,
+      "premium_discount": -68.0,
+      "correlation": {
+        "1Y": 0.82,
+        "5Y": 0.78,
+        "10Y": 0.75
+      },
+      "analysis": {
+        "1Y": {"text": "פער פי 3.1 - סביר יותר מNVDA", "recommendation": "⚠️ benchmark שמרני"},
+        "5Y": {"text": "tracking עקבי", "recommendation": "✅ floor סביר"},
+        "10Y": {"text": "DCF עלה עם FCF growth", "recommendation": "✅ שימושי"}
+      }
+    }
+  },
+  "recommendation_matrix": {
+    "value_investor": {"action": "WAIT", "reason": "AI premium גבוה. חכה לתיקון שיקרב ל-Peter Lynch"},
+    "growth_investor": {"action": "HOLD", "reason": "AI moat חזק, אבל תמחור מלא"},
+    "dividend_investor": {"action": "BUY on dips", "reason": "Dividend growth + buybacks consistent"}
+  }
+}

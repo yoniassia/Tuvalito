@@ -1,0 +1,35 @@
+{
+  "symbol": "XOM",
+  "company": "Exxon Mobil Corporation",
+  "sector": "Energy - Oil & Gas",
+  "best_method": "Lynch + DCF",
+  "executive_summary": {
+    "verdict": "XOM BELOW Lynch AND DCF! הזדמנות מצוינת",
+    "key_insight": "Lynch $142 > Price $120 = 15% BELOW! DCF $149 > Price = 19% BELOW!"
+  },
+  "valuation_methods": {
+    "graham": {
+      "current_value": 98.80,
+      "current_price": 120.34,
+      "premium_discount": -17.9
+    },
+    "peter_lynch": {
+      "current_value": 142.11,
+      "current_price": 120.34,
+      "premium_discount": 18.1
+    },
+    "dcf": {
+      "current_value": 149.16,
+      "current_price": 120.34,
+      "premium_discount": 23.9
+    },
+    "gf_value": {
+      "current_value": 103.19,
+      "current_price": 120.34,
+      "premium_discount": -14.2
+    }
+  },
+  "status": "🔥🔥 BELOW BOTH!",
+  "recommendation": "INVESTIGATE - below Lynch AND DCF!",
+  "dividend_yield": "~3.5%"
+}

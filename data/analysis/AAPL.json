@@ -1,0 +1,148 @@
+{
+  "symbol": "AAPL",
+  "company": "Apple Inc.",
+  "sector": "Technology",
+  "lastUpdated": "2026-02-27",
+  "summary": "Apple is a mature technology giant with a massive installed base and services ecosystem. Unlike pure growth stocks, Apple combines growth with significant capital returns (buybacks, dividends). This hybrid nature means some traditional metrics work better than for pure-play growth stocks.",
+  
+  "valuationMethods": {
+    "graham": {
+      "currentValue": 28.94,
+      "currentPrice": 254.63,
+      "margin": -88.6,
+      "verdict": "Not Applicable",
+      "correlation": {
+        "1Y": 0.18,
+        "3Y": 0.15,
+        "5Y": 0.12,
+        "10Y": 0.20,
+        "max": 0.22
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Very low correlation (0.18). Apple trades at 9x Graham Number due to massive intangible value - brand, ecosystem, services.",
+          "reason": "Graham Number only captures Book Value and Earnings. Apple's real value lies in: (1) iPhone installed base of 1.2B+ devices (2) Services revenue growing 20%+ (3) Brand loyalty enabling premium pricing. None of this appears in Book Value.",
+          "recommendation": "Graham Number is inappropriate for Apple. The 'overvaluation' is permanent and structural."
+        },
+        "5Y": {
+          "text": "Correlation remained low (0.12-0.15) despite Apple's shift toward services.",
+          "reason": "Even as Apple became more 'mature', the market continued paying premiums for: (1) Predictable hardware upgrade cycles (2) Growing services attach rate (3) Unmatched cash generation.",
+          "recommendation": "Do not use Graham for tech hardware companies with strong brands and ecosystems."
+        },
+        "10Y": {
+          "text": "Slight improvement in correlation (0.20) in earlier periods when Apple was more hardware-dependent.",
+          "reason": "In 2015-2017, iPhone upgrade cycles were more volatile. Graham had marginally more relevance. As services grew, correlation dropped.",
+          "recommendation": "Historical Graham analysis confirms structural unsuitability for platform companies."
+        }
+      },
+      "whenToUse": "Avoid Graham Number for consumer tech companies with: (1) Strong brands (2) Ecosystem lock-in (3) Services revenue (4) Stock buyback programs that reduce shares outstanding."
+    },
+    
+    "peterLynch": {
+      "currentValue": 81.35,
+      "currentPrice": 254.63,
+      "margin": -68.1,
+      "verdict": "Significantly Overvalued",
+      "correlation": {
+        "1Y": 0.42,
+        "3Y": 0.55,
+        "5Y": 0.48,
+        "10Y": 0.52,
+        "max": 0.49
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Moderate correlation (0.42). Peter Lynch Fair Value underestimates Apple by ~70%.",
+          "reason": "Apple's P/E has structurally expanded from ~15x (2016) to ~30x (2025). Lynch's formula assumes mean reversion, but Apple earned a permanent premium through consistent execution.",
+          "recommendation": "Apply a 'quality premium' multiplier of 1.5-2x for blue-chip tech companies with proven durability."
+        },
+        "5Y": {
+          "text": "Better correlation (0.55) during this period. Lynch values tracked closer during the 2022 correction.",
+          "reason": "When interest rates rose and growth stocks sold off, Apple briefly approached fair value. The 2022 drawdown brought price closer to Lynch's conservative estimates.",
+          "recommendation": "Lynch values can identify attractive entry points during market corrections."
+        },
+        "10Y": {
+          "text": "Consistent moderate correlation (0.52). Lynch somewhat tracks Apple's trajectory but with significant lag.",
+          "reason": "Over 10 years, Apple's growth decelerated but quality of earnings improved. Lynch's formula partially captures this.",
+          "recommendation": "Use Lynch as a 'floor' estimate. Apple rarely trades below Lynch fair value."
+        }
+      },
+      "whenToUse": "Peter Lynch works better for Apple than Graham because it accounts for growth. Best used for: identifying buy points during corrections, and comparing against historical premiums."
+    },
+    
+    "dcf": {
+      "currentValue": 93.30,
+      "currentPrice": 254.63,
+      "margin": -63.4,
+      "verdict": "Appears Overvalued",
+      "correlation": {
+        "1Y": 0.35,
+        "3Y": 0.42,
+        "5Y": 0.45,
+        "10Y": 0.50,
+        "max": 0.48
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Low-moderate correlation (0.35). Standard DCF assumptions significantly undervalue Apple.",
+          "reason": "Apple's advantages not captured in standard DCF: (1) Monopoly-like App Store margins (2) Services growing faster than hardware declining (3) $100B+ annual buybacks reducing share count.",
+          "recommendation": "Adjust DCF for: (1) Higher terminal growth (3-4% vs 2%) (2) Lower discount rate (Apple's safety deserves 8-9% WACC) (3) Factor in buyback math."
+        },
+        "5Y": {
+          "text": "Improving correlation (0.45) as Apple's growth normalized.",
+          "reason": "Apple's transition from 'growth stock' to 'cash cow' made it more DCF-friendly. Predictable FCF of $100B+ annually aids modeling.",
+          "recommendation": "DCF becomes more reliable as Apple matures. Useful for long-term fair value anchoring."
+        },
+        "10Y": {
+          "text": "Reasonable correlation (0.50) over the full decade.",
+          "reason": "DCF captured Apple's general trajectory but missed timing. The model predicted eventual value creation but not the pace.",
+          "recommendation": "10-year DCF provides useful perspective on whether current price is 'bubble' or justified."
+        }
+      },
+      "whenToUse": "DCF is increasingly relevant for Apple as it matures. Best for: (1) Setting price targets 3-5 years out (2) Assessing whether premium is sustainable (3) Comparing against other mega-caps."
+    },
+    
+    "gfValue": {
+      "currentValue": 237.87,
+      "currentPrice": 254.63,
+      "margin": -6.6,
+      "verdict": "Fairly Valued",
+      "correlation": {
+        "1Y": 0.78,
+        "3Y": 0.75,
+        "5Y": 0.72,
+        "10Y": 0.68,
+        "max": 0.65
+      },
+      "analysis": {
+        "1Y": {
+          "text": "Strong correlation (0.78). GF Value tracks Apple well because it learns from historical trading patterns.",
+          "reason": "GF Value recognizes that Apple consistently trades at 25-30x earnings and adjusts accordingly. It doesn't fight the market's assessment.",
+          "recommendation": "GF Value is excellent for Apple. Deviations >15% above/below often correct within 6-12 months."
+        },
+        "5Y": {
+          "text": "Strong correlation maintained (0.72-0.75). GF Value captured both the 2021 run-up and 2022 correction.",
+          "reason": "The adaptive methodology shines for mature companies with long trading histories. Apple's patterns are well-established.",
+          "recommendation": "Use GF Value bands (+/-15%) to identify trading opportunities."
+        },
+        "10Y": {
+          "text": "Good correlation (0.68) over the full decade despite Apple's business transformation.",
+          "reason": "GF Value adapted as Apple evolved from hardware-centric to services-driven. This flexibility is key.",
+          "recommendation": "Most reliable single metric for Apple. Combine with DCF for conviction."
+        }
+      },
+      "whenToUse": "GF Value is the primary valuation tool for Apple. Use it for: (1) Entry/exit timing (2) Position sizing (3) Comparing against historical ranges."
+    }
+  },
+  
+  "overallAssessment": {
+    "bestMethod": "GF Value",
+    "reasoning": "Apple is a hybrid: mature enough for some traditional metrics, but with enough ecosystem moat to deserve premiums. GF Value's adaptive approach works best. DCF is becoming more relevant as growth slows.",
+    "warnings": [
+      "iPhone revenue concentration (50%+) creates upgrade cycle risk",
+      "China exposure introduces geopolitical risk",
+      "Services growth deceleration could compress multiples"
+    ],
+    "investorGuidance": "Apple is suitable for both growth and value investors. Growth investors: focus on Services trajectory. Value investors: Apple can appear 'fairly valued' at 25-30x earnings - this is normal for quality compounders."
+  }
+}

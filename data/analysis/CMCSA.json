@@ -1,0 +1,17 @@
+{
+  "symbol": "CMCSA",
+  "company": "Comcast Corporation",
+  "sector": "Communication Services - Telecom",
+  "best_method": "Lynch + DCF",
+  "executive_summary": {
+    "verdict": "🔥🔥 CMCSA הכי UNDERVALUED! Below BOTH by huge margin",
+    "key_insight": "Lynch $51, DCF $71, Price $28 = 82-152% UPSIDE!"
+  },
+  "valuation_methods": {
+    "peter_lynch": {"current_value": 51.30, "current_price": 28.00, "premium_discount": 83.2},
+    "dcf": {"current_value": 70.52, "current_price": 28.00, "premium_discount": 151.9}
+  },
+  "status": "🔥🔥 VERY UNDERVALUED",
+  "upside": {"lynch": "+82%", "dcf": "+152%"},
+  "recommendation": "STRONG INVESTIGATE - massive discount to fair value"
+}
