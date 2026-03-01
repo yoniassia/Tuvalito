@@ -31,7 +31,7 @@ function LoginContent() {
   return (
     <>
       <Script 
-        src="/etoro-sso/etoro-sso.js" 
+        src="https://clawz.org/etoro-sso/etoro-sso.js" 
         onReady={() => setSsoReady(true)}
       />
       

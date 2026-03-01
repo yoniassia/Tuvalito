@@ -51,7 +51,7 @@ export function EtoroAuthButton() {
   return (
     <>
       <Script 
-        src="/etoro-sso/etoro-sso.js" 
+        src="https://clawz.org/etoro-sso/etoro-sso.js" 
         onReady={() => setSsoReady(true)}
       />
       
@@ -115,7 +115,7 @@ export function EtoroAuthButtonMobile() {
   return (
     <>
       <Script 
-        src="/etoro-sso/etoro-sso.js" 
+        src="https://clawz.org/etoro-sso/etoro-sso.js" 
         onReady={() => setSsoReady(true)}
       />
       
