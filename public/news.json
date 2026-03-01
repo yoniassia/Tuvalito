@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T16:30:12.115514",
+  "lastUpdated": "2026-03-01T16:45:12.393922",
   "clusters": [
     {
       "id": "1349a599438d",
@@ -21,7 +21,7 @@
       ],
       "primaryTicker": "NVDA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:10.959896",
+      "publishedAt": "2026-03-01T16:45:11.007036",
       "articleCount": 3,
       "articles": [
         {
@@ -64,7 +64,7 @@
       ],
       "primaryTicker": "MSFT",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:10.472057",
+      "publishedAt": "2026-03-01T16:45:10.528662",
       "articleCount": 3,
       "articles": [
         {
@@ -109,7 +109,7 @@
       ],
       "primaryTicker": "META",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:11.161821",
+      "publishedAt": "2026-03-01T16:45:11.212665",
       "articleCount": 6,
       "articles": [
         {
@@ -157,13 +157,12 @@
       "headlines": [
         "Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL",
         "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments | AAPL Stock News",
-        "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?",
-        "Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026 - TipRanks.com"
+        "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?"
       ],
       "thumbnail": "https://imgs.search.brave.com/1Wtu2DIbhwEXheQOKXKFakGV2QD5iuyZQPX_0rUWlAc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bWFya2V0YmVhdC5j/b20vaW1hZ2VzL21h/cmtldGJlYXQtbG9n/by0xMjAwLTEyMDAu/anBnP3Y9MQ",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "-0.14%",
+      "priceChange": "-0.39%",
       "spike": 0.71,
       "direction": "flat",
       "tickers": [
@@ -171,8 +170,8 @@
       ],
       "primaryTicker": "AAPL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:10.284500",
-      "articleCount": 4,
+      "publishedAt": "2026-03-01T16:45:10.313881",
+      "articleCount": 3,
       "articles": [
         {
           "source": "www.marketbeat.com",
@@ -184,18 +183,12 @@
           "source": "www.quiverquant.com",
           "title": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments | AAPL Stock News",
           "url": "https://www.quiverquant.com/news/Apple+Stock+(AAPL)+Opinions+on+Low-Cost+MacBook+and+AI+Developments",
-          "time": "2 hours ago"
+          "time": "3 hours ago"
         },
         {
           "source": "www.marketbeat.com",
           "title": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?",
           "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-shares-down-32-whats-next-2026-02-27/",
-          "time": "2 days ago"
-        },
-        {
-          "source": "www.tipranks.com",
-          "title": "Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026 - TipRanks.com",
-          "url": "https://www.tipranks.com/news/apple-aapl-expected-to-gain-share-even-as-smartphone-market-could-see-biggest-ever-drop-in-2026",
           "time": "2 days ago"
         }
       ]
@@ -222,7 +215,7 @@
       ],
       "primaryTicker": "TSLA",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:11.371549",
+      "publishedAt": "2026-03-01T16:45:11.511108",
       "articleCount": 5,
       "articles": [
         {
@@ -263,13 +256,12 @@
       "summary": "If you are wondering whether Amazon.com is still a reasonable entry at around US$209.97, the key question is whether the current price reflects its underlying business value. After a 121.3% return over 3 years but a 13.6% decline over the past 30 days and a 7.3% decline year to date, some investors ",
       "headlines": [
         "Amazon Stock: Bank of America Lifts Price Target | AMZN - TheStreet",
-        "Reassessing Amazon.com (AMZN) After 121% Three Year Rally And Recent Share Price Pullback - Simply Wall St News",
-        "Amazon stock price slides as $50 billion OpenAI investment talk hangs over AMZN"
+        "Reassessing Amazon.com (AMZN) After 121% Three Year Rally And Recent Share Price Pullback - Simply Wall St News"
       ],
       "thumbnail": "https://imgs.search.brave.com/wwrHgaKctKkJ2ODyrFwJk-VBaLwvzJcN4uuKilmbCj0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2Uvd18x/MjAwLGhfNjMwLGdf/YXV0byxjX2ZpbGwv/TkRBNk1EQXdNREF3/TURBeU9EazNNemcw/L2FuZHJldy1qYXNz/eS1jaGllZi1leGVj/dXRpdmUtb2ZmaWNl/ci1vZi13ZWItc2Vy/dmljZXMtZm9yLWFt/YXpvbmNvbS1pbmMt/c3BlYWtzLWR1cmlu/Zy10aGUtMjAxOS1j/ZXJhd2Vlay1ieS1p/aHMtbWFya2l0LWNv/bmZlcmVuY2UtaW4t/aG91c3Rvbi10ZXhh/cy11cy1vbi1tb25k/YXktbWFyY2gtMTEt/MjAxOS10aGUtcHJv/Z3JhbS1wcm92aWRl/cy1jb21wcmVoLmpw/Zw",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "+0.45%",
+      "priceChange": "-0.00%",
       "spike": 0.65,
       "direction": "flat",
       "tickers": [
@@ -277,8 +269,8 @@
       ],
       "primaryTicker": "AMZN",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:11.549978",
-      "articleCount": 3,
+      "publishedAt": "2026-03-01T16:45:11.725039",
+      "articleCount": 2,
       "articles": [
         {
           "source": "www.thestreet.com",
@@ -291,12 +283,6 @@
           "title": "Reassessing Amazon.com (AMZN) After 121% Three Year Rally And Recent Share Price Pullback - Simply Wall St News",
           "url": "https://simplywall.st/stocks/us/retail/nasdaq-amzn/amazoncom/news/reassessing-amazoncom-amzn-after-121-three-year-rally-and-re",
           "time": "1 day ago"
-        },
-        {
-          "source": "ts2.tech",
-          "title": "Amazon stock price slides as $50 billion OpenAI investment talk hangs over AMZN",
-          "url": "https://ts2.tech/en/amazon-stock-price-slides-as-50-billion-openai-investment-talk-hangs-over-amzn/",
-          "time": "3 days ago"
         }
       ]
     },
@@ -312,7 +298,7 @@
       "thumbnail": "https://imgs.search.brave.com/T7hKcsvdDruvhelEMIxoLrwfMvI_ufLggN4HECdsFnA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wOS9zaHV0dGVy/c3RvY2tfNTkzODcz/NDcxLTc1MHg0MDYu/anBn",
       "importance": 6,
       "marketReaction": 1,
-      "priceChange": "+0.08%",
+      "priceChange": "+0.01%",
       "spike": 0.61,
       "direction": "flat",
       "tickers": [
@@ -320,7 +306,7 @@
       ],
       "primaryTicker": "V",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:12.115439",
+      "publishedAt": "2026-03-01T16:45:12.393863",
       "articleCount": 3,
       "articles": [
         {
@@ -353,7 +339,7 @@
       "thumbnail": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc",
       "importance": 3,
       "marketReaction": 3,
-      "priceChange": "-0.63%",
+      "priceChange": "-0.60%",
       "spike": 1.03,
       "direction": "down",
       "tickers": [
@@ -361,7 +347,7 @@
       ],
       "primaryTicker": "JPM",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:12.010444",
+      "publishedAt": "2026-03-01T16:45:12.196292",
       "articleCount": 1,
       "articles": [
         {
@@ -382,7 +368,7 @@
       "thumbnail": "https://imgs.search.brave.com/r4Hco-XY-OGM7UME-FSZtrnIHdJTbPVHyeth9GRuHuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iYXJjaGFydC5j/b20vY29udHJpYnV0/b3JzLWFkbWluL2Nv/bW1vbi1pbWFnZXMv/aW1hZ2VzL1MlMjZQ/JTIwNTAwJTIwQ29t/cGFuaWVzL1RlY2hu/b2xvZ3klMjAobmFt/ZXMlMjBBJTIwLSUy/MEkpL0FscGhhYmV0/JTIwKEdvb2dsZSkl/MjBJbWFnZSUyMGJ5/JTIwTWFya3VzJTIw/TWFpbmthJTIwdmlh/JTIwU2h1dHRlcnN0/b2NrLmpwZw",
       "importance": 3,
       "marketReaction": 1,
-      "priceChange": "+0.08%",
+      "priceChange": "+0.03%",
       "spike": 0.92,
       "direction": "flat",
       "tickers": [
@@ -390,7 +376,7 @@
       ],
       "primaryTicker": "GOOGL",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:10.776665",
+      "publishedAt": "2026-03-01T16:45:10.852370",
       "articleCount": 1,
       "articles": [
         {
@@ -419,7 +405,7 @@
       ],
       "primaryTicker": "BRK-B",
       "inPortfolio": false,
-      "publishedAt": "2026-03-01T16:30:11.795734",
+      "publishedAt": "2026-03-01T16:45:11.990601",
       "articleCount": 1,
       "articles": [
         {
